@@ -49,11 +49,11 @@ Determine an overall score/level for each sentence based on the verb tense, word
 - Simple algorithm (heuristic) : Frequency Level 
 - Deep Learning (Transfer learning) : Finetune an existing language model to our classification task.  
 
-## Performance
+## 🏅 Performance
 Confusion Matrix, F1 score, etc. → Make a choice between model 
 
-## Auto ML :
+## 🚘 Auto ML :
 we will use this method to include AI perspective and let our pipeline evolve by itself by automating some processes.  
 
-## Build API : 
+## 🤖 Build API : 
 Restful API with flask and Microsoft Azure server
