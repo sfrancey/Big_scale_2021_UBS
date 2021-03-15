@@ -1,16 +1,16 @@
-# Big_scale_2021_UBS
+# Big scale 2021 UBS 💸
 
 The purpose of this project is to revolutionize the way people learn and get better at a foreign language. To do so, we stand that reading is the key to improve level in a foreign language. However, this is valuable only if the text corresponds to the knowledge level of the reader. The Common European Framework of Reference for Languages: Learning, Teaching, Assessment abbreviated in English as CEFR is a guideline used to describe achievements of learners of foreign languages across Europe and, increasingly, in other countries. Knowledge levels are ranked from A1 (beginner) go C2 (proficiency). By using this labelling method, we would be able to evaluate the difficulty level of a text and in a second time,  adresse/recommend relevant ones to readers depending on their abilities to understand them. 
 
 First step of the project: How to build a model able to evaluate the difficulty level of a text ?
 
-## Research phase: 	
+## 🔎 Research phase: 	
 - Multiple features can be extracted from text analysis using Lemma and Natural Language Process Tool. 
 - An existing project has been made called Duolingo CEFR Checker and evaluates difficulty for a text based on the average difficulty per word. 
 - Classification might be a good predictive model to evaluate Readability of a text.
 - Existing datasets which evaluate french words level by their average frequency in learning books.
 
-## Data & Github : 
+## 📈 Data & Github : 
 The first step was to gather and create a dataset based on several sources. We tried to use diversified sources such as Wikipedia, Grammar exercises, and sources provided by the professor. After collecting them, we evaluated their levels objectively based on the tense verbs, the word difficulty, the structure of the sentence, its length, CEFR guideline, etc.
 
 Relevant sources
@@ -30,7 +30,7 @@ https://www.language-databases.com/database-conjugation.html
 
 Then, we created a Github where we put several datasets and research papers. We will update it as well as this ReadMe file as we progress in the progress.
 
-## Feature Extraction / Modeling 
+## ⚙️ Feature Extraction / Modeling 
 
 ### Main approach : 
 Determine an overall score/level for each sentence based on the verb tense, word difficulty and cognates words. Indeed, some tenses and words are more difficult than others (we learn present tense first, and more complex tenses after). Conversely, cognates can be easier to learn and use. 
