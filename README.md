@@ -1,4 +1,6 @@
 # Big scale 2021 UBS 💸
+
+**Group Members**
 - Sixtine Francey
 - Alexandre Keusen
 - Gabin Flourac
