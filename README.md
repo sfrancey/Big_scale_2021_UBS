@@ -16,7 +16,7 @@ First step of the project: How to build a model able to evaluate the difficulty 
 ## 📈 Data & Github : 
 The first step was to gather and create a dataset based on several sources. We tried to use diversified sources such as Wikipedia, Grammar exercises, and sources provided by the professor. After collecting 1000 sentences, we evaluated their levels objectively based on the tense verbs, the word difficulty, the structure of the sentence, its length, CEFR guideline, etc.
 
-###Number of sentences per level
+**Number of sentences per level :**
 - A1 : 169
 - A2 : 226
 - B1 : 132
