@@ -11,7 +11,7 @@ First step of the project: How to build a model able to evaluate the difficulty 
 - Existing datasets which evaluate french words level by their average frequency in learning books.
 
 ## 📈 Data & Github : 
-The first step was to gather and create a dataset based on several sources. We tried to use diversified sources such as Wikipedia, Grammar exercises, and sources provided by the professor. After collecting them, we evaluated their levels objectively based on the tense verbs, the word difficulty, the structure of the sentence, its length, CEFR guideline, etc.
+The first step was to gather and create a dataset based on several sources. We tried to use diversified sources such as Wikipedia, Grammar exercises, and sources provided by the professor. After collecting 1000 sentences, we evaluated their levels objectively based on the tense verbs, the word difficulty, the structure of the sentence, its length, CEFR guideline, etc.
 
 Relevant sources
 https://lingolex.com/learn_french/giving_opinions_french.php
