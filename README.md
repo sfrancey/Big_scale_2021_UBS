@@ -1,4 +1,7 @@
 # Big scale 2021 UBS 💸
+- Sixtine Francey
+- Alexandre Keusen
+- Gabin Flourac
 
 The purpose of this project is to revolutionize the way people learn and get better at a foreign language. To do so, we stand that reading is the key to improve level in a foreign language. However, this is valuable only if the text corresponds to the knowledge level of the reader. The Common European Framework of Reference for Languages: Learning, Teaching, Assessment abbreviated in English as CEFR is a guideline used to describe achievements of learners of foreign languages across Europe and, increasingly, in other countries. Knowledge levels are ranked from A1 (beginner) go C2 (proficiency). By using this labelling method, we would be able to evaluate the difficulty level of a text and in a second time,  adresse/recommend relevant ones to readers depending on their abilities to understand them. 
 
