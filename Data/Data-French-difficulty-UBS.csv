@@ -1,0 +1,2168 @@
+Column1;Column2;Column3;Column4;Column5
+Text;Difficulty;Difficulty Annotator 1;Difficulty Annotator 2;Difficulty Annotator 3
+Je suis américain.;A1;A1;A1;A1
+Vous êtes français;A1;A1;A1;A1
+J’habite à New York, et toi ?;A1;A1;A1;A1
+Où habitez-vous ?;A1;A1;A1;A2
+Nous habitons en France, près de Paris.;A1;A1;A1;A1
+Je m’appelle Bob, je suis médecin et j'ai 35 ans.;A1;A1;A1;A1
+Comment tu t'appelles ?;A1;A1;A1;A2
+D’où tu viens?;A1;A1;A2;A1
+Je viens du Royaume-Uni.;A1;A1;A1;A1
+Quel âge tu as ?;A1;A1;A1;A2
+J'ai 25 ans.;A1;A1;A1;A1
+Parlez-vous français ?;A1;A1;A1;A1
+Oui, je parle un peu.;A1;A1;A1;A1
+"Non, je ne parle pas français.	";A1;A1;A1;A1
+"Vous parlez bien anglais.	";A1;A1;A1;A1
+Je te présente Marie. ;A1;A1;A1;A1
+Marie est mon amie.;A1;A1;A1;A1
+Enchanté !;A1;A1;A2;A1
+Comment allez-vous ?;A1;A1;A1;A2
+Ca va, merci.;A1;A1;A1;A1
+Je ne comprends pas ta question.;A1;A1;A1;A1
+Où est-ce que vous allez Madame ?;A1;A1;A2;A1
+Nous allons à Paris pour prendre un train.;A1;A1;A1;A1
+Nous sommes en vacances chez des amis.;A1;A1;A1;A1
+Pouvez-vous m'aidez ?;A1;A1;A1;A1
+Excusez-moi, où est la gare ?;A1;A1;A1;A1
+Je travaille dans un hopital.        ;A1;A1;A1;A1
+Je suis médecin. ;A1;A1;A1;A1
+J'aime le café.;A1;A1;A1;A1
+"Je voudrais un café s'il-vous-plaît !	";A1;A1;A1;A1
+Ce pantalon est trop cher !;A1;A1;A1;A1
+Où sont les toilettes, s'il-vous-plaît ?;A1;A1;A1;A2
+Je préfère un autre bijou.;A1;A1;A1;A1
+"Pouvez-vous parler plus lentement ?	";A1;A1;A1;A1
+Je ne trouve pas la rue du marché.        ;A1;A1;A1;A1
+Parlez-vous anglais ?        ;A1;A1;A1;A1
+Qu’est ce que vous faites dans le parc?        ;A1;A1;A2;A2
+Il joue dans le jardin avec un ballon.;A1;A1;A1;A1
+Excusez-moi, je me suis perdu.;A1;A1;A1;A1
+Comment allez-vous aujourd'hui ?;A1;A1;A1;A2
+Le garçon mange des fruits rouges.;A1;A1;A1;A1
+Ca va, merci. Et toi ?;A1;A1;A1;A1
+Il fait beau aujourd’hui !;A1;A1;A1;A1
+Ouais !;A1;A1;A1;A1
+C’est bien !;A1;A1;A1;A1
+Atttention aux loups!;A1;A1;A2;A1
+je fais attention.;A1;A1;A1;A1
+il appelle un docteur !;A1;A1;A1;A1
+Le facteur viens ici tous les jours !;A1;A1;A1;A1
+Bonne chance !;A1;A1;A1;A1
+Bon anniversaire !;A1;A1;A1;A1
+Combien ça coûte ?;A1;A1;A1;A1
+J'ai froid !;A1;A1;A1;A1
+Je suis désolé.;A1;A1;A1;A2
+Je suis d'accord.;A1;A1;A1;A1
+Je t'aime.;A1;A1;A1;A1
+Juste un petit peu. ;A1;A1;A1;A1
+Un instant, s'il vous plaît.;A1;A1;A1;A1
+Merci beaucoup.;A1;A1;A1;A1
+Nous traversons la route quand les voitures s'arrêtent.;A1;A1;A2;A2
+Quel est ton numéro de téléphone ?;A1;A1;A1;A1
+Quelle heure il est ? ;A1;A1;A1;A1
+Il est midi et quize minutes.;A1;A1;A1;A1
+Où habites-tu ?;A1;A1;A1;A1
+Je ne te crois pas.;A1;A1;A1;A1
+Je m'en vais.;A1;A1;A1;A2
+Je ne trouve pas mes clés de maison.;A1;A1;A1;A1
+Je n'aime pas le fromage.;A1;A1;A1;A1
+Nous vivons dans une jolie maison avec un grand jardin.;A1;A1;A1;A1
+Je m’occupe de mes deux enfants quand ils rentrent de l’école.;A1;A1;A1;A1
+Les enfants aiment faire du vélo avec leur grand-père après l’école. ;A1;A1;A1;A1
+Je m’appelle Hugo et j’ai seize ans.;A1;A1;A1;A1
+Le rouge est la couleure des tomates et des fraises.;A1;A1;A1;A1
+Je prends mon petit-déjeuner dans la cuisine. ;A1;A1;A1;A2
+Je mange deux tartines de pain, un grand bol de café et un yaourt aux fruits rouges.;A1;A1;A1;A1
+Je vais prendre ma douche dans ma salle-de-bain.;A1;A1;A1;A1
+J’achète un livre, un pantalon et une nouvelle lampe pour ma chambre.;A1;A1;A1;A1
+Nous irons au restaurant.;A1;A1;A1;A1
+Je commande du poisson avec de la purée.;A1;A1;A1;A1
+Cet après-midi, avec mes amis nous allons au cinéma.;A1;A1;A1;A1
+J’adore ma grand-mère, elle très gentille.;A1;A1;A1;A1
+Amélie est ma meilleure amie.;A1;A1;A1;A1
+J’aime beaucoup l’école.;A1;A1;A1;A1
+Mes matières préférées sont le français et le sport. ;A1;A1;A1;A1
+En automne les feuilles des arbres tombent;A1;A1;A1;A1
+Il commence à y avoir de la pluie et du vent. C’est le moment de sortir mon manteau et mon parapluie !;A1;A1;A1;A2
+Demain, j'irai faire les courses.;A1;A1;A1;A1
+Il sera content de te voir.;A1;A1;A1;A1
+Où irons-nous en vacances l'année prochaine ?;A1;A1;A2;A1
+Je suis dans le bus, j'arrive dans 5 minutes.;A1;A1;A1;A1
+Tu iras voir ta maman la semaine prochaine ? ;A1;A1;A1;A1
+Le week-end, Pierre aime passer du temps en famille. ;A1;A1;A1;A1
+Je vois trois pommes de terre, mais elles ne sont pas bonnes.;A1;A1;A1;A2
+Je lis un livre très intéressant !;A1;A1;A1;A1
+Je suis malade, je reste dans mon lit aujourd'hui.;A1;A1;A1;A1
+Le chaufffeur de bus est en retard. ;A1;A1;A1;A1
+Tu aimes les légumes verts ? ;A1;A1;A1;A1
+Le chien de ma voisine fais beaucoup de bruit.;A1;A1;A1;A1
+Je regarde les oiseaux à travers la fenêtre de ma chambre.;A1;A1;A1;A2
+Il fait très chaud ce matin à la plage.;A1;A1;A1;A1
+Tu peux me prêter ton stylos s'il-te-plaît ? ;A1;A1;A1;A1
+Je cherche cette adresse, vous pouvez m'aider ?;A1;A1;A1;A1
+Sa voiture rouge est très rapide.;A1;A1;A1;A1
+Mon ami ne répond pas au téléphone.;A1;A1;A1;A1
+Je ne trouve pas le livre que tu cherches.;A1;A1;A1;A1
+Bonjour, je voudrais deux kilos de fraises et un kilo de haricots.;A1;A1;A1;A2
+Max ira à l'université l'année prochaine. ;A1;A1;A1;A1
+Le cours de géographie est annulé.;A1;A1;A1;A1
+Je vous coupe les cheveux comme cela ?;A1;A1;A1;A1
+Les enfants achètent des pains au chocolat après l'école. ;A1;A1;A1;A1
+J'habite en colocation avec deux copines.;A1;A1;A1;A1
+Papa raconte une histoire aux enfants pour les endormir.;A1;A1;A1;A1
+Léa regarde la télévision chaque soir.;A1;A1;A1;A1
+Tous les dimanches, je vais faire mes courses au marché.;A1;A1;A1;A1
+Je ne mange pas viande, je suis végétarienne.;A1;A1;A2;A1
+Je n'aime pas cette photo.;A1;A1;A1;A1
+Francis ne viendra pas en cours aujourd’hui.;A1;A1;A1;A1
+Paul et Julien jouent dans le jardin.;A1;A1;A1;A1
+La police cherche le voleur de mon vélo.;A1;A1;A1;A1
+Mon ordinateur ne fonctionne plus, je dois le changer.;A1;A1;A2;A2
+Mon plat est trop salé.;A1;A1;A1;A1
+Vous mentez !;A1;A1;A1;A1
+Il a mal à la tête à cause de la musique.;A1;A1;A1;A1
+Je partirai demain matin à la première heure pour ne pas rater mon avion.;A1;A1;A1;A2
+Vous aimez ce film ? ;A1;A1;A1;A1
+Ils seront tous à la maison ce soir.;A1;A1;A1;A1
+Le bébé pleure depuis des heures, il a faim.;A1;A1;A1;A1
+Tu aimes ma nouvelle robe ?;A1;A1;A1;A1
+Les soldes commencent ce week-end.;A1;A1;A1;A2
+Je vais au travail en transports tous les jours.;A1;A1;A1;A1
+Tu penses que la bibliothèque est ouverte ?;A1;A1;A1;A1
+Les voitures s'arrêtent au feu rouge.;A1;A1;A1;A1
+J'aime la musique classique et le rock. ;A1;A1;A1;A1
+Il joue de la guitare dans un bar.;A1;A1;A1;A1
+Le thé est trop chaud pour le boire.;A1;A1;A1;A2
+Il fait trop chaud, j'ouvre la fenêtre.;A1;A1;A1;A1
+Ce spectacle est très amusant.;A1;A1;A1;A1
+Je promène le chien de ma voisine qui est en vacances.;A1;A1;A1;A1
+Il est tard, je rentre chez moi.;A1;A1;A1;A1
+Tu vois le château là-bas ?;A1;A1;A1;A1
+Je fais mon exposé devant toute la classe.;A1;A1;A1;A1
+Les lapins aiment les carottes.;A1;A1;A1;A1
+J'ai peur du noir.;A1;A1;A1;A1
+Tu mesures combien ?;A1;A1;A2;A1
+Il fait froid en hiver.;A1;A1;A1;A1
+Le vent soufle fort dans les rues.;A1;A1;A1;A1
+Je skis avec mes amis tous les week-ends.;A1;A1;A1;A1
+Il y a de la neige à la montage.;A1;A1;A1;A1
+Le professeur corrige les exercice des élèves.;A1;A1;A1;A1
+La mer est pleine de poissons colorés.;A1;A1;A1;A1
+J'ai trouvé cet orchestre très professionnel !;A1;A2;A2;A1
+Il déplace sa chaise pour laisser passer le serveur.;A1;A2;A1;A1
+Tu prends une douche et tu vas au lit.;A1;A1;A1;A1
+Vous êtes une femme très intelligente.;A1;A1;A1;A1
+Vous pleurez beaucoup.;A1;A1;A1;A1
+Tu descends l’escalier et tu tournes à gauche.;A1;A1;A1;A1
+Le héros meurt à la fin du film.;A1;A1;A1;A1
+Il croit que nous avons raison.;A1;A2;A2;A2
+Elles finissent leurs devoirs et elles sortent jouer;A1;A1;A2;A2
+J’ouvre la porte et le chien court à l’extérieur.;A1;A1;A2;A1
+Ils appellent leurs amis.;A1;A1;A1;A1
+Chaque soir, nous mangeons tôt.;A1;A1;A1;A1
+Il pleut et j’attends l’autobus;A1;A1;A1;A1
+Nous réfléchissons et nous choisissons un gâteau;A1;A1;A1;A2
+On doit toujours écouter ses parents;A1;A1;A1;A2
+Vous faites de l’exercice physique;A1;A1;A1;A1
+Ils viennent souvent nous visiter;A1;A2;;A2
+Nous commençons un nouveau cours;A1;A1;A1;A1
+Vous étudiez bien et vous réussissez facilement;A1;A1;A1;A2
+Ils prennent des vacances en juillet.;A1;A1;A1;A1
+Si tu veux, tu peux arriver tôt.;A1;A1;A1;A1
+Elle apprécie le quartier dans lequel elle vit.;A1;A1;A1;A1
+Julie est à Lausanne pour un mois.;A1;A1;A1;A1
+Chantons une chanson !;A1;A1;A1;A1
+Vous préparez le repas ?;A1;A1;A2;A1
+Allons au cinéma !;A1;A2;A2;A2
+C'est la seule façon de s'en sortir !;A2;A2;A2;B1
+Ils ont l'intention de s'enfuir par la frontière italienne. ;A2;A2;A2;A2
+La grange était en feu.;A2;A2;A2;A2
+Il est vrai que Pierre a moins de livres que ses amis, mais les siens sont meilleurs.;A2;A2;A2;B1
+Les médecins disent souvent qu'on doit boire un verre de vin rouge après les repas.;A2;A2;B1;A2
+Les invités voulaient boire du champagne, mais il n'y en avait plus.;A2;A2;A2;B1
+Zut, j’ai encore perdu mes lunettes. ;A2;A2;A1;A2
+Je n’avais jamais vu ça avant ! ;A2;A2;A2;B1
+Elsa est sortie sans sa casquette pour se protéger la tête des rayons du soleil. ;A2;A2;A2;A1
+Suivez nos conseils !;A2;A2;A2;A2
+Le chef du gouvernement appelle à des élections.;A2;A2;B2;A2
+Alors, lisez ce message de recommendation ! ;A2;A2;A1;A2
+Enregistrez-vous immédiatement et participez à notre grand tirage au sort !;A2;A2;A2;B1
+N’hésitez plus et prenez contact avec nos experts !;A2;A2;A2;A2
+Il t’ordonne de partir immédiatement !;A2;A2;A2;A2
+J’ai conseillé à ma sœur d’aller dans cette école privée.;A2;A2;A2;A2
+Ne pas marcher dans l’herbe près du tribunal.;A2;A2;;A2
+Je travaillais lorsqu’il est arrivé par surprise derrière moi. ;A2;A2;A2;A2
+Tu voudrais aller à la plage cet après-midi pour chercher des coquillages ?;A2;A2;A2;A2
+Il a trouvé ses clés dans la niche du chien, sous un tas de feuilles.;A2;A2;A2;A2
+Les enfant n'avaient pas envie de travailler leurs devoirs après l'école.;A2;A2;A2;A2
+Nous sommes allés visiter le musée d'art le weekend dernier.;A2;A2;A2;A2
+Étais-tu en ville avec tes amis hier à treize heure ?;A2;A2;A2;A2
+Les joueurs étaient contents de leur score final.  ;A2;A2;A2;A2
+Il était une fois une petite fille de village.;A2;A2;A2;A2
+Ce dimache, c'était la fête des Mères en France.;A2;A2;A2;A2
+D'où vient cette fête annuelle ? ;A2;A2;B1;A2
+Il y a un monstre, je l'ai vu se cacher sous mon lit ! ;A2;A2;A2;A2
+Il était vraiment horrible ! ;A2;A2;A2;A2
+Oh, mais attends une seconde !;A2;A2;A1;A2
+Il était juste un peu curieux.;A2;A2;A2;A2
+Maintenant que je le connais, je n'ai plus peur ! ;A2;A2;A2;A2
+Lundi matin, Madame Dupont est allé faire des courses chez le poissonier.;A2;A2;A2;A2
+Elle a rejoint sa soeur et elles ont déjeuné ensemble dans une brasserie. ;A2;A2;A2;A2
+Il est allé chez le dentiste pour enlever une dent hier matin avant d'aller au travail.;A2;A2;B1;A2
+Mon petit frère a pris le bus public pour aller jouer au football avec ses copains.;A2;A2;A2;A2
+Je suis allée voir un film d'humour en plein air avec mon petit copain. ;A2;A2;B1;B1
+Lucie a préparé une tarte aux framboises pour ses grands-parents et ses cousins. ;A2;A2;A2;A2
+Ça fait un moment que je n'ai pas appelé mes parents pour prendre de leurs nouvelles. ;A2;B1;B2;B1
+C'est mon restaurant préféré, j'y suis allé deux fois cette semaine! ;A2;A2;B1;A2
+Je vais aller prendre du pain à la boulangerie pour le petit-dejeuner.;A2;A2;B1;A2
+Tes mains étaient gelées après le ski.;A2;A2;A2;A2
+La petite fille était cachée derrière les rideaux.;A2;A2;A2;A2
+Tu était déjà allé voir cette pièce de théâtre ?;A2;A2;A2;A2
+Nous mangions tranquillement notre dîner dans la salle à manger.;A2;A2;A2;A2
+Comment a-t-il trouvé ce joli chemin ?;A2;A2;A2;A2
+Où étais-tu hier soir aux alentours de dix heure ?;A2;A2;A2;A2
+J'allais à la poste quand j'ai croisé ma cousine et son mari.;A2;A2;B1;A2
+Vous avez bien entendu ce que le professeur a dit avant? ;A2;A2;A2;A2
+La bibliothèque était déjà fermée quand j'y suis allé hier après-midi.;A2;A2;A2;A2
+Mon ami Gabin aimait raconter n'importe quoi à ses amis pour les rendre jaloux.;A2;A2;B1;B1
+Les élèves étaient excités d'aller à la piscine municipale.;A2;A2;A2;A2
+J'avais une idée derrière la tête.;A2;B1;B1;B1
+Les animaux sont soignés dans le zoo par un vétérinaire;A2;A2;A2;A2
+Tu aimais te déguiser en princesse quand tu étais petite.;A2;A2;B1;A2
+Range ta chambre à  coucher avant que tes amis arrivent pour le goûter.;A2;A2;A2;A2
+Laisse tomber les filles méchantes.;A2;A2;B1;A2
+Tu as aimé ce livre de poésies ?;A2;A2;B1;A2
+J'y suis allé hier en scooter.;A2;A2;A1;A2
+Il a planté des laitues dans son potager.;A2;A2;A2;A2
+Nous étions impatients de partir en randonnée. ;A2;A2;A2;A2
+Tu es en train de laver la vaisselle à la main ? ;A2;A2;B1;B1
+Ce soir nous allons au restaurant chinois entre camarades.;A2;A2;A2;A2
+Le joueur va recevoir une médaille pour sa victoire.;A2;A2;A2;A2
+Je vais me promener dans le parc avec mon camarade.;A2;A2;A2;A2
+Je vais trouver une autre solution à ce problème.;A2;A2;A1;A2
+L'inspecteur a trouvé des preuves.;A2;A2;A2;A2
+Je suis arrivé en retard à mon rendez-vous quotidien.;A2;A2;A2;A2
+Mon chapeau s'est envolé quand je suis monté sur le voilier.;A2;A2;B1;B1
+Je vais fermer la porte à clé par sécurité. ;A2;A2;A2;A2
+Tu as réussi ton examen de maths ?;A2;A2;A2;A2
+Les corbeaux ont attaqué une cycliste dans le parc.;A2;A2;A2;A2
+Le public n'a pas reconnu son talent.;A2;A2;A2;A2
+La télévision est restée éteinte toute la soirée.;A2;A2;A2;A2
+Leur bus est parti sans eux.;A2;A2;A2;A2
+Ces touristes étaient très bruyants au restaurant.;A2;A2;A2;A2
+So histoire était intéresssante mais fausse.;A2;A2;A2;A2
+Mon journal intime a disparu !;A2;A2;A2;A2
+Tu as entendu ce bruit ?;A2;A2;A2;A2
+Qui est déjà monté à cheval ?;A2;A2;A2;A2
+J'ai été en forme toute la matinée.;A2;A2;A2;A2
+Non Paul tu restes là ! Tu es sorti toute la journée.;A2;A2;A2;A2
+Vous avez révisé pour votre examen ?;A2;A2;A2;A2
+Ils ont peint le mur sale de la cuisine.;A2;A2;B1;B1
+Je rentrais chaque jour en compagnie de mon amoureux.;A2;A2;A2;A2
+Anna s'amusait avec son frère quand il s'est cassé le bras gauche.;A2;A2;A2;A2
+Le téléphone fixe sonnait toutes les cinq minutes.;A2;A2;A2;A2
+Mes parents s'arrangeaient toujours pour me préparer une fête incroyable.;A2;A2;B1;B1
+Mon patron m'a augmenté mon salaire.;A2;A2;A2;A2
+Il fumait un paquet de cigarettes par jour avant d'arrêter.;A2;A2;A2;A2
+Inscrivez votre nom, votre prénom et votre numéro de contribuable.;A2;A2;A2;A2
+Je vous soigne si vous avez mal aux dents.;A2;A2;A2;A2
+Je débouche votre lavabo ou votre baignoire;A2;A2;B1;A2
+Ils font à manger et ils nettoient toujours la cuisine juste après.;A2;A1;A2;A2
+"Nous vivons au Canada ; c’est un pays nordique.";A2;B1;A2;A2
+Quand on est petit, on apprend à marcher dès huit mois.;A2;A2;A2;A2
+Envoie le message à tes amis, d’accord ?;A2;A1;A2;A2
+Ils finissent le jardinage et ils rentrent se laver les mains avec du savon.;A2;A1;A2;A2
+Chaque soir, je lis un peu et je dors sur le divan.;A2;A2;A2;A2
+J'ai promis de dire la vérité au juge.;A2;A2;A2;A2
+Tu remplis le pot d’eau et tu mets des glaçons.;A2;A2;A2;A2
+Mes voisins voulaient quitter le pays en cachette.;A2;A2;A1;A2
+Tu entends ce bruit étrange ?;A2;A1;A2;A2
+Ils fesaient une grande fête chaque année dans le quartier.;A2;A2;A2;A2
+Nous voulions visiter le musée mais nous devions payer l’entrée.;A2;A2;A2;A2
+Mes frères vendent leurs articles de sport.;A2;A2;A2;A2
+Quand je lis, je découvre de nouvelles choses intéressantes.;A2;A2;A2;A2
+Vous devez de l’argent à tous vos amis à cause de ce défi.;A2;A2;A2;A2
+Pâques est une fête catholique célébrée le 21 avril;A2;A2;B1;A2
+Traditionnellement les chocolats sont en forme d'œufs mais aussi d'animaux comme des poussins, lapins, moutons...;A2;B1;B1;B1
+Oui, avec ce grand soleil, je commence à réfléchir à des projets de vacances.;A2;B1;B1;B1
+En juillet, ma famille et moi irons dans le Sud de la France.;A2;B1;B1;B1
+Nous visiterons les calanques de Marseille.;A2;B1;B1;B1
+Et en août, nous passerons peut-être quelques jours dans les montagnes.;A2;B1;B1;B1
+Chaque été, nous nous rendons au chalet de mes grands-parents.;A2;B1;B1;B1
+Mais cette année, nous ne savons pas si nous pourrons y aller.;A2;B1;B1;B1
+Je suis l'itinéraire donné par Pierre, un ami français.;A2;A2;B1;A2
+Je commence par un petit-déjeuner dans un café près de l'Arc de Triomphe avec des croissants délicieux;A2;A2;B1;A2
+Après une marche sur les Champs-Élysées, je suis au pied de la Tour Eiffel.;A2;A2;A2;B1
+Je suis fatiguée et préfère prendre le métro pour aller à l'Île de la Cité.;A2;A2;A2;A2
+Il faut savoir que les étudiants comme les travailleurs attendent ces vacances avec impatiente.;A2;B1;B1;B1
+La majorité des Français ne restent pas dans leur région durant les vacances d'été;A2;A2;A2;A2
+Ils préfèrent alors rester à la maison et profitent du temps libre pour visiter leurs familles ou se balader en ville.;A2;A2;B1;B1
+Quand il y a un grand soleil sur la carte, il fera chaud sur la région.;A2;B1;B1;B1
+Quand la météo indique un soleil avec des nuages, il y aura peu de soleil et il y aura souvent du vent.;A2;B1;B1;B1
+Il y a deux possibilités : soit son accent lui permettra d’être connu et ce sera très bien.;A2;B1;B1;B1
+C'est une bonne nouvelle, mais comment je vais faire dans une si grande ville alors que j'adore la nature?;A2;A2;B2;B1
+Non il ne l'a pas encore reconnu, je crois.;A2;A2;A2;A2
+Nous avons assez mangé, nous ne voulons plus de gâteaux ni de sucreries.;A2;A2;B1;A2
+Je n’arrive plus à dormir depuis quelques jours à cause de mes voisins et leurs travaux… ;A2;A2;A2;B1
+Je ne veux plus le voir parce qu’on s’est disputés la dernière fois que l’on s’est vus.;A2;B1;B1;B1
+Je ne vais pas aller avec eux, puisqu’ils sont déjà partis !;A2;B1;B1;B1
+Il ne pourra pas rentrer en boîte de nuit puisqu’il a perdu sa carte d’identité.;A2;B1;B1;B1
+C’est grâce à elle que j’en suis arrivé là.;A2;A2;A2;A2
+Comme mon père va avoir 50 ans, on lui organise un anniversaire surprise.;A2;A2;A2;A2
+À force de ne pas faire attention, vous allez finir par vous faire mal ! ;A2;B1;B1;B1
+Tu nettoies la maison immédiatement.;A2;A2;A1;A1
+Alors, tu vois le film, tu écris un texte et tu décris l’histoire correctement.;A2;A2;A2;A2
+Quand le téléphone sonne, on répond poliment.;A2;A2;A2;A2
+Le petit chat plaît à mes parents.;A2;A2;A1;A2
+Ma soeur aînée conduit vite et mes frères conduisent lentement;A2;A1;A2;A2
+Tu tousses continuellement.;A2;A2;A2;B1
+Il doit téléphoner quand il reçoit des nouvelles de la part des sauveteurs.;A2;A2;A2;A2
+Elle met son chapeau et elle va à l’épicerie de quartier.;A2;A1;A1;A1
+Je prends congé aujourd’hui : je suis fatigué et j'ai besoin de repos.;A2;A2;A2;A2
+La voiture en panne est réparée par le mécanicien.;A2;A2;A2;A2
+Les acteurs sont dirigés par le metteur en scène;A2;A2;A2;A2
+Ces photographies ont été prises pas Nadar.;A2;A1;A2;B1
+Le livre est mis en vitrine par les libraires;A2;A2;A2;A2
+Le livre est présenté aux journalistes;A2;A2;A2;A2
+Un contrat est signé par l’éditeur et par l’auteur.;A2;A2;A2;A2
+Le roman est jugé par des lecteurs;A2;A2;A2;A2
+Le texte est relu par sa femme.;A2;A2;A2;A2
+Sylvianne va être expulsée du jeu télévisé.;A2;B1;A2;B1
+Alexandre a bu beaucoup de café et n'a pas beaucoup dormi cette semaine;A2;A2;B1;B1
+Le prof de planche à voile est agréable.;A2;A2;A2;A1
+Ce dinosaure vivait à côté des rivières et des forêts;A2;A2;A2;A2
+Il regardait la télévision tout en dégustant des macaronis à la compote de pomme.;A2;A2;B1;B1
+L'équipe jaune est vexée d'avoir perdu la première épreuve.;A2;A2;A2;A2
+Oui, prenons-en pour le trajet!;A2;A2;A2;B1
+Non, ne lisez pas ce texte pour l'instant !;A2;A2;B1;B1
+Non, ne mange pas votre goûté dans la classe !;A2;A2;B1;B1
+Non, ne sors pas jouer sans protection !;A2;A2;B1;B1
+Réveillez-vous !;A2;A2;A2;A2
+Courez plus vite !;A2;A2;A2;A2
+Tu dois te couper les ongles.;A2;A2;A2;A2
+Chantez-moi cette chanson !;A2;A2;A2;A2
+Achetez-moi ce cadeau !;A2;A2;A2;A2
+J’ai eu soif et j’ai pris un café;A2;A2;A2;A2
+Tu as voulu me voir, tu es arrivée tôt.;A2;A2;A2;A2
+Il a pris son parapluie et il est sorti.;A2;A2;A2;A2
+Ils sont allés en vacances l’été dernier;A2;A2;A2;A2
+Vous avez bien étudié et vous avez réussi facilement.;A2;A2;A2;A2
+Nous avons commencé un nouveau cours ;A2;A2;A2;A2
+Ils sont venus souvent nous visiter ;A2;A2;A2;A2
+Vous avez fait de l’exercice physique;A2;A2;A2;A2
+Tu as toussé continuellement;A2;A2;A2;A2
+On a dû écouter nos parents;A2;A2;A2;B1
+Nous avons réfléchi et nous avons choisi un bonbon;A2;A2;A2;A2
+Il a plu et j’ai attendu l’autobus.;A2;A2;A2;A2
+Hier soir, nous avons mangé tôt.;A2;A2;A2;A2
+Elles ont appelé leurs amis pour leur raconter leurs mesaventures.;A2;A2;A2;A2
+J’ai ouvert la porte et le chien a couru comme une flèche à l’extérieur.;A2;A2;A2;A2
+Elles ont fini leurs devoirs et ils sont sortis jouer dans le préau.;A2;A2;A2;A2
+Il a cru que nous avons eu raison.;A2;A2;A2;B1
+Le petit chat a plu à mes parents;A2;B1;B1;B1
+Quand le téléphone a sonné, on a répondu immédiatement.;A2;A2;A2;A2
+Alors, tu as vu le film, tu as écrit un texte et tu as décrit l’histoire.;A2;A2;A2;A2
+Tu n’as pas oublié ! Tu as nettoyé la maison.;A2;A2;A2;A2
+Le héros est mort à la fin du film.;A2;A2;A2;A2
+Ils ont fait une grande fête à chaque année.;A2;A2;A2;A2
+Tu as rempli le pot d’eau et tu as mis des glaçons.;A2;B1;B1;B1
+Hier, j’ai lu un peu et j’ai dormi sur le divan en cuir.;A2;A2;A2;A2
+Tu as pris une douche et tu es allée au lit.;A2;A2;A2;A2
+Nous réfléchissions et nous choisissions une sucreries.;A2;A2;A2;A2
+Ils conversaient joyeusement avec leurs amis sur la prochaine activité;A2;A2;A2;A2
+Ma soeur conduisait vite et mes frères conduisaient lentement.;A2;A2;A2;A2
+J’ouvrais la porte et le chien courait à l’extérieur.;A2;A2;A2;A2
+Il croyait que nous avions raison.;A2;A2;A2;A2
+Alors, tu voyais le film, tu écrivais un texte et tu décrivais l’histoire.;A2;A2;A2;A2
+Vous pleuriez beaucoup. Pourquoi ?;A2;A2;A2;A2
+Mes frères vendaient leurs articles de sport.;A2;A2;A2;A2
+Nous voulions visiter le musée d'histoire naturelle et nous devions patienter dans la file d'attente.;A2;A2;A2;A2
+Vous avez été une femme très admirée à l'époque.;A2;A2;A2;A1
+Je promettais de dire la vérité.;A2;A2;A2;B1
+Tu envoyais un message à tes amis chaque soir avant de te coucher.;A2;A2;A2;A1
+Tu prenais une douche et tu allais au lit.;A2;A2;A2;A2
+Quand on était petit, on apprenait à marcher.;A2;;A2;A2
+"Nous vivions au Canada ; c’était un pays nordique.";A2;;A2;A2
+Aujourd’hui, j'ai mangé une mousse au chocolat parce que je ne suis pas à la diète.;A2;A2;B1;A2
+Ce soir, nous ne faisons pas la fête parce que nous devons nous lever tôt.;A2;A1;A2;A2
+Aujourd’hui, je ne sors pas parce qu’il y a une tempête de neige.;A2;A1;A2;A2
+La mer est toujours calme au petit jour.;A2;B2;B2;C1
+Je crains que la table ne soit pas encore disponible.;B1;B1;B1;B1
+Excusez-moi, serait-il possible de changer de table ?;B1;A2;B1;B1
+J'ai souscris un abonement hebdomadaire à un magazine de cuisine. ;B1;B1;B1;B2
+Pendant que j'étais dans mon bain moussant, une coupure d'éléctricité est survenue. ;B1;B1;B1;B1
+Pour le plat de résistance de ce soir, je n'ai ni de tomates, ni de courgettes dans mon garde-manger.;B1;A2;B1;B1
+Mon chien aboye rarement, sauf lorsqu'il croise un chat érrant.;B1;A2;B1;B1
+Il s’est cassé la cheville, mais malgré ça il veut danser, quelle idée ! ;B1;B1;B1;B2
+J’étais trop épuisé, il m’était impossible de continuer !;B1;B1;B1;B1
+Cette idée brillante m’est venue hier en rêvamt, je vais tout t’expliquer.;B1;B1;B2;B1
+C’est avec grand plaisir que je vous envoie ce message pour vous décrire votre voyage à Paris en notre compagnie. ;B1;A2;B2;B1
+Les exportations de cacao ont doublé par rapport à l’année dernière.;B1;B1;B2;B1
+Au village, il y a les pour et les contre.;B1;B1;B1;B1
+Est-ce que tu lui as conseillé de manger dans ce restaurant ?;B1;A2;B1;B1
+Claude avait trente-six ans, et par moments, il en paraissait cinquante.;B1;B1;B1;B1
+Les Grecs et les Romains ont été les premiers à célébrer leurs mères. ;B1;B1;B1;B1
+Je voudrais aller au cinéma avec mes copines.;B1;B1;B1;B1
+Il était déjà minuit et quart quand Pierre est rentré chez lui.;B1;A2;B1;B1
+Il est entré dans la mauvaise chambre et a surpris des inconnus.;B1;B1;B1;B1
+Il a cherché ses amis dans la foule de suporters. ;B1;B1;B1;B1
+Pourquoi tu n'as pas acheté cette antiquité ?;B1;B1;B2;B1
+La marche était cassée et je suis tombé par terre.;B1;A2;B2;B1
+Le journal n'a pas expliqué comment ce prisonnier s'est évadé.;B1;B1;;B1
+Le tableau paraissait plus beau qu'avant.;B1;A2;A2;A2
+Les voitures se sont embouties au feu tricolore.;B1;B2;B1;B1
+La couverture du bouquin était couleur bleu turquoise, je l'ai adorée dès que je l'ai vue.;B1;B1;B1;B1
+Les mères de mes amis d'école se sont rejoins devant la grille pour les attendre.;B1;B1;B1;B1
+Pourquoi le maire de la ville n'a pas accepté cette loi ?;B1;A2;B1;B1
+Rangez-vous sur le bas côté et éteignez votre moteur !;B1;A2;B1;B1
+Alexandre aimait réviser à l'université pour flirter avec des filles de la faculté de droit;B1;B1;B1;B1
+S’impliqueront-ils dans la vie sociale du collège?;B1;B1;B1;B1
+Vivront-ils dans leur pays natal ?;B1;B1;B1;B1
+Tandis que les jonquilles fleurissent, les parents dissimulent du chocolat dans le jardin afin de célébrer Pâques;B1;B2;B1;B1
+Certains familles décorent les œufs durs en peignant leurs coquilles avec des teintes vertes ou rouges.;B1;B1;B1;B1
+J'achèterai tout de même des chaussures de randonnée au cas où.;B1;B2;B1;B2
+Je lui ferai découvrir les villes de Lyon et de Montpellier;B1;B1;B1;B1
+Je termine à Montmartre avec sa basilique et ses ruelles pavées.;B1;B1;B1;B1
+Après l'ambiance de luxe, ici c'est comme un village tranquille et traditionnel.;B1;B1;B1;B1
+Toutefois, certaines personnes ne disposent pas d'un budget spécial pour financer ce type de détente.;B1;B2;B1;B2
+Avec les prévisions météo, on peut savoir quel temps il fera le soir, le lendemain ou dans la semaine.;B1;B1;B1;B1
+S'il y a des nuages avec de la pluie sur la carte, c'est qu'il va pleuvoir et qu'il y a des risques de tempête ou de grêle.;B1;B1;B1;B1
+Si de la pluie tombe alors qu'il y a du soleil, vous pourrez sans doute observer un arc-en-ciel.;B1;B1;B1;B1
+Lorsqu'il y a un éclair avec des nuages et de la pluie, il risque d'y avoir de la foudre et du tonnerre.;B1;B1;B1;B1
+"Ce véritable musée végétal présente une collection de plus de 
+1 200 espèces sauvages et cultivées, qui comprend les variétés les plus menacées en France.";B1;B2;B2;B2
+Plus que faire une visite, le promeneur remontera le temps et découvrira ainsi une partie de l’histoire de la région.;B1;B1;B1;B1
+Vous découvrirez des façades surprenantes et des petites places romantiques.;B1;B1;B1;B1
+"À la radio, le journaliste Jean-Michel Aphatie a conservé les intonations de son Pays basque natal, 
+dans le Sud de la France.";B1;B1;B1;B1
+On le trouvera ridicule et ce sera une catastrophe.;B1;B1;B1;B1
+J’ai dû reprendre, car j’avais des problèmes de santé, ça me fait beaucoup de bien au moral.;B1;B1;A2;B1
+Et grâce à ces nouvelles résolutions encourageantes, je dors bien mieux maintenant !;B1;B1;B1;B1
+Et puis tu me connais, à force de sortir tous les soirs, je ne me repose pas beaucoup !;B1;B1;B1;B1
+Faute de temps, nous n’avons pas pu visiter le musée d’art contemporain.;B1;B1;B1;B1
+Il ne viendra pas, sous prétexte qu’il est malade ! ;B1;B1;B1;B1
+Le Président de la République sera élu par les Français;B1;B1;B1;B1
+Personne n’était intéressé par les discours du député;B1;B2;B2;B2
+Un secrétaire va être embauché par le directeur;B1;B1;B1;B1
+Des réformes vont être proposées par le chef du gouvernement;B1;B1;B1;B1
+Des mesures vont être prises par le ministre de la santé oublique;B1;B1;B1;B1
+De nouveaux modèles de vêtements viennent d’être présentés par ce styliste.;B1;B1;B1;B2
+Cette maison vient d’être vendue à des Hollandais;B1;B1;B1;B2
+Et le roman peut alors être acheté par de nombreux lecteurs;B1;B2;B2;B2
+Les policiers viennent d'expulser ces jeunes clandestins;B1;B1;A2;B1
+Le parquet de Nanterre annonce le 7 janvier 2021 que Patrick Balkany est placé en garde à vue  ainsi que son gendre et son directeur de cabinet;B1;C1;B2;C1
+Issu d'une famille de musiciens il débute l'accordéon entre 7 et 8 ans;B1;B1;B1;B1
+Ce traité se termine par son propre horoscope;B1;B1;B1;B1
+les forces navales américaines capturent deux vaisseaux de guerre Britanniques.;B1;B1;B2;B1
+Le massacre est commémoré sur le drapeau de la ville de Chicago par sa première étoile rouge;B1;B1;B1;B1
+Il a dû téléphoner au médecin de garde.;B1;A2;A2;A2
+Ma soeur ainée a pris le volant pour rouler plus énergiquement car mes frères conduisaient trop prudemment.;B1;A2;A2;A2
+Tu as descendu l’escalier à toute allure pour réceptionner ton colis.;B1;A2;A2;A2
+Quand j’ai lu, j’ai découvert de nouvelles choses surprenantes sur les locataires qui occupaient l'appartement. ;B1;B1;A2;B1
+J’ai perdu mon temps inutilement: je n’ai rien pu faire.;B1;B1;A2;A2
+Vous avez beaucoup pleuré suite à votre rupture qui vous a brisé le coeurs en milles morceaux.;B1;A2;A2;A2
+Mes frères ont vendu leurs figurines à un collectionneur.;B1;A2;A2;A2
+Nous avons voulu visiter le musée et nous avons dû payer l’entrée.;B1;A2;A2;A2
+Vous avez sûrement été une belle femme désirée  et courtisée à l'époque.;B1;B1;B1;B1
+Tu as entendu ce fracas sourd ?;B1;A2;A2;A2
+Tu as continué à penser à ton amant disparu.;B1;A2;A2;A2
+Mes voisins ont voulu quitter le pays de maière précipitée car il craignait pour leur survie .;B1;A2;A2;A2
+J’ai juré de dire la vérité sans concession au bon dieu.;B1;A2;A2;A2
+Ils ont achevé leurs corvées de jardinage et ils sont rentrés changer.;B1;A2;A2;A2
+Tu as pensé à envoyer un message d'excuses à ton correspondant étranger ?;B1;A2;A2;A2
+Quand j’ai attteint mes 1 ans et demi, j’ai appris à marcher de manière autonome et assurée.;B1;B1;A2;B1
+Nous avons vécu durant plusieurs décénnies au beau milieu Canada occidental.;B1;B1;A2;B1
+Ils ont préparé le dîner pour tous les convives puis, ils ont rangé et nettoyé la cuisine intégralement.;B1;A2;A2;A2
+Vendredi soir prochain, vous viendrez à la maison, et nous mangerons des légumes frais du potager.;B1;B1;B1;B1
+Tu retireras ton chapeau en feutre et tes gants en cuire et tu t’assiéras en silence.;B1;B1;B1;B1
+Elle cueillera les roses et elle les arrosera si nécessaire.;B1;B1;B1;B1
+Elle conduira prudemment le camion lorsqu’elle sortira de l'allée.;B1;B1;B1;B1
+Après le cours, vous boirez un verre en notre compagnie, vous rirez aux éclats et aurez du bon temps avec vos amis.;B1;B1;B2;B1
+Ils attendront quelques minutes sur le quai et ils prendront le train commercial en provenance de Paris.;B1;B1;B1;B1
+Les enfants, vous vous tairez lorsque je signalerai de le faire.;B1;B1;B1;B1
+Il faudra nous prévenir quand vous recevrez des communications importantes. ;B1;B1;B1;B1
+Quand il recevra cette déclaration, il constatera que tu es sincère et il s’apercevra que tu l’aimes vraiment.;B1;B1;B1;B1
+Demain, il pleuvra des cordes, il vaudra mieux se protéger avec un parapluie et une cape imperméable.;B1;B2;B1;B1
+Quand je reviendrai, j’offrirai beaucoup d’amour à ceux que j’aprécie et je couvrirai mes enfants de présents.;B1;B1;B2;B2
+Vous remplirez le vase d’eau, puis vous cueillerez des fleurs sauvages qui mourront demain.;B1;B1;B2;B2
+Quand il fera le ménage de l’appartement, il jettera les vieux papiers, il nettoiera le linge et il ouvrira les fenêtres.;B1;B1;B1;B1
+Quand je finirai ce travail, je partirai en Floride. Je fuirai l’hiver et les grands froids.;B1;B1;B1;B1
+Lorsqu’elle entendra le réveille-matin, elle se lèvera du lit, elle prendra une douche et elle se dépêchera pour aller au bureau.;B1;B1;B1;B1
+J'enverrai la facture, il la paiera aussitôt qu’il la recevra;B1;B1;B1;B1
+Lundi, nous tiendrons la réunion en avant-midi et nous continuerons les discussions en après-midi;B1;B2;B2;B1
+Je prenais congé : j’étais épuisée par ma sur-charge de tâches.;B1;B1;A2;A2
+Si tu voulais, tu pouvais te joindre à la manifestation populaire.;B1;A2;A2;A2
+La journaliste enfilait son manteau en laine pour se rendre au cinéma pour regarder un film dramatique et écrire sa critique.;B1;A2;A2;A2
+Ils s'accordait des vacances méritées chaque été afin de combler son manque de sommeil accumulé.;B1;A2;A2;A2
+Il devait à tout prix téléphoner à son bourreau quand il recevait des nouvelles de son banquier.;B1;A2;A2;A2
+Vous étudiiez sérieusement et vous réussissiez sans le moindre effort de votre part.;B1;A2;A2;A2
+Ils venaient souvent nous distraire durant notre confinement.;B1;A2;A2;A2
+Vous faisiez de l’exercice physique professionnellement.;B1;A2;A2;A2
+Tu toussais si fort que cela t'empêchait de réfléchir intensément.;B1;A2;A2;A2
+On devait constamment écouter les directives nos parents adoptifs.;B1;A2;A2;A2
+Il pleuvait des trombes et j'attendais patiament que le prochain autobus programmé arrive. ;B1;A2;A2;A2
+Chaque soir, nous mangions après avoir béni notre festin par la prière sacrée.;B1;A2;A2;A2
+Elles accomplissaient leurs corvées ménagères avant de pouvoir s'évader et rejoindre leurs amis.;B1;A2;A2;A2
+Le félin au pelage d'or avait plu à mes parents.;B1;A2;A2;A2
+Quand le téléphone retentissait, on s'empressait de répondre immédiatement.;B1;A2;A2;A2
+Tu n’oubliais pas ! Tu nettoyais la demeure de fond en combles.;B1;B1;B1;B1
+Le héros mourait héroiquement des suite des ses blessures à la fin du film.;B1;A2;A2;A2
+Vous deviez rendre des comptes à la justice pour vos crimes.;B1;B1;A2;B1
+Tu descendais à toute allure l’escalier de marbre et te ruait vers le halle de la demeure.;B1;A2;A2;A2
+Tout en lisant les rubriques criminelles du journal de découvrait une nouvelle effroyable.;B1;A2;A2;A2
+Je perdais mon temps : je ne faisais rien d'utile à la société moderne.;B1;B1;B1;A2
+Ils faisaient une grande fête à chaque année.;B1;A2;A2;A2
+Tu entendais ce bruit suspect? Je distinguait des mots en latin.;B1;A2;A2;A2
+Tu pensais toujours à ton amant qui t'avait abandonné sans pitié.;B1;A2;A2;A2
+Mes voisins voulaient quitter le pays en cachette, une fois la nuit tombée. ;B1;A2;A2;A2
+Tu remplissais le pot d’eau et tu mettais des glaçons à congeler dans le congélateur du sous-sol.;B1;B1;B1;B1
+Dès le soleil couché, je m'installais confortablement dans mon fauteuil à bascule pour écouter un bon disque de jazz. ;B1;A2;A2;A2
+Une fois le rangement du jardin effectué, ils s'occupaient de tailler les haies. ;B1;A2;A2;A2
+Ils ne vont pas à la manifestation parce qu’ils n'ont pas pu prendre de jours de congé. .;B1;;B1;B1
+Mais, l’hiver prochain, si elle n’a pas de rhume, elle fera du ski.;B1;B1;B1;B1
+Elles ne vont pas au théâtre parce qu’elles n’ont pas le temps.;B1;B1;B1;B1
+Je ne peux pas dormir parce que les voisins font trop de bruit.;B1;B1;B1;B1
+Je ne t’ai pas téléphoné parce que j’ai eu trop de travail.;B1;B1;B1;B1
+Tu as détesté ce restaurant parce que la nourriture était très épicée.;B1;B1;B1;B1
+Je suis impatient de retrouver mes camarades et de connaître mon emploi du temps.;B1;B1;A2;B1
+Quels lieux ou constructions rappellent que Constantinople a été une ville romaine ?;B1;B1;B1;B1
+L’énigme de ce roman policier surprendra les lecteurs.;B1;B2;B1;B1
+La plupart des spectateurs ont apprécié la pièce de théâtre.;B1;B2;B1;B1
+L’intervalle entre les deux séances est trop long.;B1;B2;B1;B1
+Il est dangereux de conduire sans ceinture de sécurité.;B1;B1;B1;B1
+À ce stade, une formation est vraiment nécessaire afin de développer ses compétences linguistiques.;B1;B2;B1;B1
+J’aimerais que tu fermes la fenêtre avant de partir.;B1;B1;B1;B1
+Dans ce jardin botanique, vous pourrez découvrir des plantes à parfum, médicinales, aromatiques et industrielles.;B1;B2;B1;B2
+Demain, nous nous lèverons tôt et nous nous promènerons dans la les bois situés aux alentours du manoir.;B1;B2;B2;B2
+"Quand ils se verront, elle pleurera et elle s’évanouira ; l’émotion sera trop grande.";B1;B2;B2;B1
+Si mes dents contunent à me faire souffrir ainsi, j’irai chez le dentiste.;B1;B2;B2;B1
+Si nous sortons sous la pluie vêtus de la sorte, nous serons malades en un rien de temps.;B1;B2;B2;B1
+Vous ne sortez pas souvent de votre zone parce que vous n’avez pas de moyen de transport.;B1;B1;B1;B1
+Nous avons eu des brûlures d'estomac atroces parce que nous avons englouti des tonnes de chocolat.;B1;B1;B2;B1
+Sa méthode de déduction inspire à notre auteur le personnage de Sherlock Holmes.;B1;B2;B2;B2
+Elles se servirent un copieux repas afin de récupérer leurs forces.;B1;B2;C1;B2
+Elle a passé la nuit à réviser le rapport annuel.;B1;C1;B2;B2
+Nous avons reçu plusieurs plaintes à ce sujet.;B1;B2;B2;B2
+Mon Dieu, elle a perdu la tête.;B1;B2;B2;B1
+Il m’a donné un coup de poing dans la figure.;B1;B2;B2;C1
+Le journal a été emporté par un coup de vent.;B1;B2;B2;C1
+J’ai engagé la conversation pour briser le silence pesant de ces dernières minutes.;B1;B2;B2;B2
+Il pleut des cordes dans le massif central.;B1;B2;B2;B2
+Arnaud était sous le choc : sa meilleure amie lui aurait donc menti?;B1;B2;B2;B2
+Tu me dis que c’est moi qui ai refusé d'aller chez toi il y a un an.;B1;B2;B2;B2
+En cherchant davantage, nous aurions découvert le trésor.;B1;B2;B2;B2
+Ce clown amusant avait distrait les petits enfants.;B1;B2;B2;B2
+Il y a 100 ans, cette pièce de monnaie valait peu d’argent.;B1;B2;B2;B2
+Sans y penser, j’ai fait des erreurs !;B1;B2;B2;C1
+Les enfants se sont endormis très facilement.;B1;C1;B2;B2
+C’est dans ce village de 1638 habitants que sont implantés les locaux de la nouvelle émission de téléréalité.;B2;B2;B2;B1
+Si j’avais su, je ne serais pas venu…;B2;B2;B2;B2
+Il a eu drôlement de chance, il aurait pu y laisser sa vie.;B2;B2;B2;B2
+Elle commémore la résurrection de Jésus mais fête aussi le printemps !;B2;B2;B2;B2
+"La promenade pédagogique et interactive dans les différents jardins (médiéval, tropical, espèces 
+odorantes et protégées) fera appelà tous vos sens et vous expliquera les vertus et les utilisations des plantes.";B2;B2;B2;B2
+Le seul « beau parler » était celui des élites parisiennes et ceux qui rêvaient de s’élever socialement devaient l’adopter.;B2;B2;B2;B2
+Il avait été défendu par un mauvais avocat.;B2;B2;B2;B2
+Sixtine nous a cassé les couilles sur le forum de gestion de projet.;B2;B2;B2;C1
+Vous avez dû de l’argent aux banques pour rembourser votre prêt ! ;B2;B2;B1;B2
+Ce soir, nous regarderons des photos dans l'album familial et nous nous souviendrons des moments agréables.;B2;B2;B2;B2
+Je convaincrai mon frère et il s’inscrira à l’activité inter-scolaire de la classe.;B2;B2;B2;B2
+"Tu accueilleras les gens à la porte principale, tu offriras du thé et des biscuits, tu papoteras poliment et tu 
+Te tairas quand les autres parleront";B2;B2;B2;B2
+Nous entamions un nouveau programme de notre cursus.;B2;A2;A2;A2
+"Si nous sommes bloqués dans l’ascenseur qui s'est arrêté brusquement, nous 
+appellerons du secours dès que la communication sera établie.";B2;B2;B2;B2
+S’ils vont au cinéma pour l'avant-première, ils verront le dernier film de ce réalisateur de notoriété internationale.;B2;B2;B2;B2
+Si vous désirez des informations supplémentaires, vous m’enverrez un courriel en recommendé.;B2;B2;B2;B2
+Si je croise Émilie par hasard, je l’inviterai à souper pour le réveillon de la saint sylvestre.;B2;B2;B2;B1
+S’ils étudient de manière plus assidue, ils n'auraient plus desoin de redoubler.;B2;B2;B2;B1
+Si vous vous goinfrés de ce gâteau marbré, vous aurez des violentes crampes à l’estomac.;B2;;B2;B2
+Si je gagne suffisamment d’argent, je voyagerai en Europe tel un vagabond.;B2;;B2;B2
+"S’il avait un travail plus prestigieux, il aurait l'opportunité de remporter plus d'argent et ainsi améliorer 
+sa qualité de vie.";B2;B2;B2;B2
+Si nous savions employer correctement votre langue maternelle, nous trouverions du travail en un rien de temps.;B2;B2;B2;B2
+Si j’étais plus attirante, tous les garçons tomberaient raide dingues de mon charme envoutant. ;B2;B2;B2;B2
+Si elle avait un caractère plus commode, elle nouerait plus d'amitiés sincères.;B2;B2;B2;B2
+Si vous arriviez plus tôt, vous verriez peut-être mes parents en train de lustrer la voiture de collection de mon père.;B2;B2;B2;B2
+Si tu respectait les indications plus sérieusement, tu trouverais plus facilement ton chemin à travers ces ruelles.;B2;B2;B2;B2
+"Si nous écoutions le discours plus attentivement, nous comprendrions mieux l’objet des 
+revendications établies par ce parti politique de la jeunesse suisse.";B2;B2;B2;B2
+Si tu étais moins bavard, les gens te confieraient plus de secrets intimes et confidentiels.;B2;B2;B2;B2
+Si vous mangiez moins de féculents et de matières grasses, vous auriez la taille plus fine et le corps mieux sculpté.;B2;B2;B2;B2
+"Si nous savions conduire l'automobile à boite automatique, nous pourrions l’emprunter le samedi soir pour nous 
+rendre à l'observatoire.";B2;B2;B2;B2
+"Si j’avais plus de confiance en moi, je téléphonerais à James pour lui avouer mes sentiments les plus 
+inavouables pourtant gardés enfoui en moi.";B2;B2;B2;B1
+"S’il n’avait pas plu des trombes d'eau, elle serait allée en randonnée pédestre sur le sentier de montagne 
+le plus escarpé de la région.";B2;B2;B2;B2
+S’il n’avait pas été méchant et irrespectueux avec nous, nous l’aurions probablement invité à notre réception.;B2;B2;B2;B2
+Si le député avait respecté les électeurs, il aurait démissionné de son plein gré.;B2;C1;B2;B2
+"Si tu avais eu dix-huit ans, tu aurais pu acheter de la bière par tes propres moyens et n'aurait eu de 
+compte à rendre à qui que ce soit.";B2;B2;B2;B2
+"Si vous étiez arrivés à l’heure comme convenu, vous auriez vu le début du reportage auto-biographique sur
+ l'auteur contemporain le plus convoité du moment.";B2;B2;B2;B2
+Si elle avait été suffisament investie, elle aurait sans doute mieux réussi professionnellement et dans la vie.;B2;B2;B2;B2
+"Si vous aviez préparé un repas convenbale, comme cela était convenu, j’aurais sûrement 
+tenté de manger un peu par respect.";B2;B2;B2;B2
+Si je n’avais pas été habillé aussi chaudement, j’aurais eu froid aux extrémité de mon corps.;B2;B2;B2;B2
+"Si tu avais eu son adresse de résidence, tu aurais pu lui rendre visite de manière 
+spontanée et sans gâcher l'effet de surprise souhaité.";B2;B2;B2;B2
+Si ce roman policier avait été plus captivant, je l’aurais terminé sans hésiter.;B2;B2;B2;B2
+"Si l’épicerie de quartier avait été ouverte en ce jour congé, comme indiqué sur le panneau informatif 
+nous aurions acheté du lait et du sirop d'érable pour préparer du pain perdu aux enfants.";B2;B2;B2;B2
+Si vous aviez cherché ces dossiers comptables correctement, vous les auriez trouvés en un rien de temps.;B2;B2;B2;B2
+Si je n’avais pas eu de douleur intenses au dos, je ne serais pas allé chez l'osthéopathe.;B2;B2;B2;B2
+"Si nous avions eu suffisament d’argent, nous aurions pris l’avion pour nous 
+rendre à notre conférence sur les enjeux écologiques du siècle et ainsi participer activement au débat.";B2;B2;B2;B2
+Si j’avais eu plus de temps-libre, je t’aurais écrit plus souvent afin de t'informer de ma progression dans mes recherches.;B2;B2;B2;B2
+Si vous aviez eu plus de jours de congé, vous seriez partis en voyage itinérant à travers les contrées lointaines d'Amazonie. ;B2;B2;B2;B2
+S’il avait fait plus chaud, nous nous serions baignés dans le lac.;B2;B2;B2;B2
+"Le public découvre dans un magazine hebdomadaire les premières nouvelles mettant en scène le fameux 
+détective et son fidèle Watson";B2;B2;B2;B2
+L’homme que vous voyez exploita durant plusieurs décennies, un site archéologique aux troubailles impressionnantes.;B2;B1;B2;B2
+Alors, il comprit que plus rien n’était possible.;B2;B2;B2;B2
+Les condés sont arrivés et ont pris ma Ganja ;B2;B2;B2;B2
+J’espérai vous entrevoir et avoir la chance de vous parler.;B2;C1;B2;B2
+Je m’inscrivis à une nouvelle formation en ligne.;B2;B2;B2;B2
+Elle descendit l’escalier à toute vitesse et courut le rencontrer.;B2;B2;B2;B2
+Le cheval arriva au galop et sauta par-dessus la clôture.;B2;B2;B2;B2
+Les petits jouèrent et dansèrent autour du feu de joie.;B2;B2;B2;B2
+Il plut toute la nuit et le vent souffla sans cesse contre les carreaux de la ville demeure.;B2;B2;B2;B2
+Je levai courageusement le petit doigt et je repris mon souffle, coupé par la stupeur de ce que j'avais vu précédement.;B2;C1;B2;B2
+Elle mit vivement son chapeau à plumes, sa cape et elle partit en silence sans ajouter le moindre mot.;B2;B2;B2;B2
+Cette femme mourut seule et misérable.;B2;B2;B2;B2
+La direction était tout à fait à l’aise avec cette décision;B2;B2;B2;B2
+Il serait préférable de faire l’essai de cette voiture d’occasion avant son acquisition.;B2;B2;B2;B2
+Elle se classe première parmi les meilleures de sa catégorie.;B2;B2;B2;B1
+Je ne sais pas ce qu’il a, mais il fait la tête depuis ce matin.;B2;B2;B2;B2
+Malgré le danger, il a gardé la tête froide durant cette expérience.;B2;C1;B2;B2
+Peux-tu jeter un coup d’œil à mes devoirs ?;B2;C1;B2;B2
+Il a vu le jour pendant la guerre sous les coups de bombes et les invasions ennemies.;B2;B2;C1;C1
+J’ai mis mon rapport à jour pour l'inventaire des actifs.;B2;B2;B2;C1
+Les journalistes ont mis la vérité au grand jour sur l'affaire des déchets radioactifs.;B2;B2;B2;B2
+Sa santé s’est dégradée à cause d'une infection sévère et ses jours sont comptés.;B2;C1;B2;B2
+La situation économique s’améliore de jour en jour.;B2;B2;B2;B2
+Elle n’a pas encore démissionné, donc jusqu’à preuve du contraire, elle fait toujours partie de cette entreprise.;B2;C1;B2;B2
+Je citerai l’histoire de Sophie à titre d’exemple.;B2;C1;B2;B2
+Je ne pensais pas qu'il eût rendu ses devoirs à l'heure avec les évènements récents.;B2;B2;B2;C1
+Il eut acheté des méthodes pour apprendre la guitare.;B2;B2;B2;C1
+Elle se fut rendu compte de son erreur.;B2;B2;B2;C1
+Quand les joueurs eurent terminé le match, ils prirent une boisson énergisante.;B2;B2;B2;C1
+Si j'avais de l'argent, je serais partie en voyage pour faire le tour du monde en solitaire.;B2;B2;B2;B2
+Nous aurions voulu rentrer plus tôt.;B2;B2;B2;B2
+Si je t’avais raconté cette histoire, tu serais rentré à la maison.;B2;B2;B2;B2
+Elle se demande s'il aurait aimé l'inviter à sa soirée. ;B2;B2;B2;B2
+Si elle avait étudié davantage, elle aurait pu réussir l'examen.;B2;B2;B2;B2
+Elles auraient pu devenir de très grandes amies si elles s'étaient connues avant.;B2;B2;B2;B2
+Je n'aurais pas dû lui faire confiance sans preuve.;B2;B2;B2;B2
+Elle aurait aimé qu'il soit plus prudent lors de son excursion en montagne.;B2;B2;B2;B2
+Il m'a dit qu'il viendrait dès qu'il aurait terminé ses corvées.;B2;B2;B2;B2
+Elle m'a dit qu'elle s'inscrirait à la compétition lorsque son genou serait guéri.;B2;B2;B2;B2
+Elle aurait voulu qu'il soit plus patient.;B2;B2;B2;B2
+S'il avait pris le temps de discuter avec elle, il aurait compris pourquoi elle avait pris la décision de vendre la ferme.;B2;B2;B2;B2
+Elle aurait aimé qu'il soit capable de se mettre à sa place.;B2;B2;B2;B2
+Jamais il n'aurait pu croire qu'elle aurait osé lui cacher la vérité de la sorte.;B2;B2;B2;B2
+Il l'aurait tué avec un couteau.;B2;B2;B2;B2
+Il a dit qu'il irait se laver les dents dès qu'il aurait fini de manger;B2;B2;B2;B2
+S’il avait fait plus chaud, nous nous serions baignés dans le lac d'eau douce près de la maison.;B2;B2;B2;B2
+Si vous aviez eu plus de jours de congé payés, vous seriez partis en voyage pour faire un pélerinage.;B2;B2;B2;B2
+Si j’avais eu plus de temps, je t’aurais écrit plus souvent.;B2;B2;B2;B2
+Si nous avions eu de l’argent, nous aurions pris l’avion.;B2;B2;B2;B2
+Si je n’avais pas eu mal au dos, je ne serais pas allé chez la massothérapeute.;B2;C1;B2;B2
+Si l’épicerie avait été ouverte, nous aurions acheté du lait.;B2;B2;B2;B2
+Si ce roman avait été intéressant, je l’aurais terminé.;B2;B2;B2;B2
+Si tu avais eu son adresse, tu aurais pu lui rendre visite.;B2;B2;B2;B2
+Si je n’avais pas été habillé chaudement, j’aurais eu froid.;B2;B2;B2;B2
+Si vous aviez préparé un repas, j’aurais mangé un peu.;B2;B2;B2;B2
+Si elle avait été sérieuse, elle aurait réussi dans la vie.;B2;B2;B2;B2
+Si vous étiez arrivés à l’heure, vous auriez vu le début du film.;B2;B2;B2;B2
+Si tu avais eu dix-huit ans, tu aurais pu acheter de la bière.;B2;B2;B2;B2
+Si le député avait respecté les électeurs, il aurait démissionné.;B2;B2;B2;B2
+En arrivant, il serait bon que tu nourrisses le chien et que tu changes l’eau.;B2;C1;B2;B2
+Puis, j’aimerais que tu regardes s’il y a des messages téléphoniques.;B2;C1;B2;B2
+Il serait bon que tu attendes le facteur pour que les voisins ne se plaignent pas.;B2;B2;B2;B2
+Chaque matin, il faudra que tu ailles à l’épicerie et que tu te souviennes d’apporter la clé.;B2;B2;B2;B2
+Il est peu probable que tu doives souvent arroser les plantes.;B2;B2;B2;B2
+Je suis content que tu veuilles t’occuper de la maison pendant mon absence.;B2;B2;B2;C1
+Avec un peu plus d’étude, j’aurais réussi l’examen.;B2;B2;B2;B2
+Sans tes petites notes, tu aurais oublié les courses à faire.;B2;B2;B2;B2
+Est-ce que vous n’auriez pas trouvé un téléphone cellulaire ?;B2;B2;B2;B2
+Elle aurait dû arriver il y a des heures.;B2;B2;B2;B2
+Sans cette pluie qui ne cesse de tomber, nous nous serions amusés.;B2;B2;B2;B2
+Je serais allé avec vous, si vous me l’aviez proposé.;B2;B2;B2;B2
+Sans cet accident, je me serais souvenue du nom de mes amis.;B2;B2;B2;B2
+Si vous aviez frappé, je vous aurais ouvert la porte.;B2;B2;B2;B2
+En allant à la campagne, nous aurions cueilli des petits fruits.;B2;B2;B2;B2
+Je me serais servi une assiette de fromages, si j’avais eu faim.;B2;B2;B2;B2
+Sans son manteau et ses gants, ils seraient morts de froid.;B2;B2;B2;B2
+Sans votre soutien, elle aurait suivi un tout autre chemin dans la vie.;B2;B2;B2;B2
+Les étudiantes se seraient assises sur un banc en vous attendant.;B2;B2;B2;B2
+Ils auraient bu de la bière, s’ils étaient venus à notre soirée.;B2;B2;B2;B2
+J’aurais cru que la vérité sur cette histoire était bien différente;B2;B2;B2;C1
+Le serveur aurait dû nous offrir un verre d’eau ! J’ai soif !;B2;B2;B2;B2
+Pour gagner à la loterie, il aurait fallu que tu achètes un billet.;B2;B2;B2;C1
+Si tu m’avais expliqué la situation, j’aurais su quoi dire au professeur.;B2;B2;B2;C1
+Par chance que nous ne sommes pas allés en Floride, il aurait plu tout le temps.;B2;B2;B2;B2
+En d’autres circonstances, ma mère aurait reçu toute notre famille.;B2;B2;B2;C1
+Les garçons, vous auriez déçu vos parents, si vous aviez échoué.;B2;B2;B2;B2
+Si tu n’avais pas travaillé, tu aurais eu plus de temps pour te reposer.;B2;B2;B2;B2
+Tu aurais pu au moins dire «bonjour» à nos voisins !;B2;B2;B2;B2
+S’il avait fait beau, nous nous serions promenés dans le parc.;B2;B2;B2;B2
+J’aurais espéré que notre relation évolue différemment.;B2;B2;B2;B2
+En cas de crise, ils auraient appelé l’ambulance ou la police.;B2;B2;B2;B2
+Les filles seraient venues au cinéma avec nous, si nous leur en avions parlé.;B2;B2;B2;B2
+Le directeur aurait donné de nouvelles consignes au personnel.;B2;B2;B2;B2
+Mes voisins auraient recueilli un beau petit chat abandonné.;B2;B2;B2;B2
+Cet accusé se serait défendu avec l’énergie du condamné.;B2;C1;B2;B2
+Ils auraient vu plusieurs versions de ce film.;B2;B2;B2;B2
+Cette actrice américaine aurait disparu de chez elle hier.;B2;B2;B2;B2
+Si le député avait respecté les électeurs, il aurait démissionné.;B2;B2;B2;B2
+Si tu avais eu dix-huit ans, tu aurais pu acheter de la bière.;B2;B2;B2;B2
+Si vous étiez arrivés à l’heure, vous auriez vu le début du film.;B2;B2;B2;B2
+Si elle avait été sérieuse, elle aurait réussi dans la vie.;B2;B2;B2;B2
+Si vous aviez préparé un repas, j’aurais mangé un peu.;B2;B2;B2;B2
+Si je n’avais pas été habillé chaudement, j’aurais eu froid.;B2;B2;B2;B2
+Si tu avais eu son adresse, tu aurais pu lui rendre visite.;B2;B2;B2;B2
+Si ce roman avait été intéressant, je l’aurais terminé.;B2;B2;B2;B2
+Si l’épicerie avait été ouverte, nous aurions acheté du lait.;B2;B2;B2;B2
+Si vous aviez cherché ces dossiers, vous les auriez trouvés.;B2;B2;B2;B2
+Si nous avions eu de l’argent, nous aurions pris l’avion.;B2;B2;B2;B2
+Si j’avais eu plus de temps, je t’aurais écrit plus souvent.;B2;B2;B2;B2
+Si vous aviez eu plus de jours de congé, vous seriez partis en voyage.;B2;B2;B2;B2
+S’il avait fait plus chaud, nous nous serions baignés dans le lac.;B2;B2;B2;C1
+Ces aventuriers sont des têtes brûlées.;C1;C1;C1;B2
+"Elle dit que je suis égoïste, que je prends les affaires des autres, alors que, en revanche, quand les 
+autres empruntent mes affaires de classe, je les traite de copieurs.";C1;C1;C1;C1
+Elle s’étirait délicatement en un long ruban d’hommes et de chameaux.;C1;C1;B2;C1
+Il entendit un grand cri venant du fond des bois.;C1;C1;C1;B2
+;C1;C2;C1;C1
+Il se dépêcha et alla la rejoindre.;C1;C1;C1;B2
+J’en ai par-dessus la tête des tes histoires ridicules.;C1;C1;C1;B2
+Le succès lui a donné la grosse tête.;C1;C1;C1;B2
+Il a une sacrée poignée de main bien ferme .;C1;C1;C1;B2
+Peux-tu me donner un coup de main ?;C1;C1;C1;B2
+Les champions auront toujours un coup d’avance sur les autres.;C1;C1;C1;C1
+Si vous étiez nés à cette époque, vous auriez connu le romantisme.;C1;B2;B2;B2
+Joseph Haydn a écrit au total 68 quatuors à cordes en plusieurs séries d'opus.;C1;C1;C1;C1
+Si tu diminues tes frais de gestion annuels, tu augmenteras tes bénéfices nets d'au moins trente pour cent.;C1;C1;C1;C1
+"Le plus inquiétant et scandaleux, c’est en mathématiques : il échange ses réponses et travaux pratiques à tout l’internat contre rétribution, ce qui 
+explique les quantités de provisions et d'objets illégaux qui dans son placard.";C1;C1;C1;C1
+Perrette, retenant sa respiration tellement était forte l’odeur nauséabonde d’huile de vidange, dans la chambre-garage.;C1;C1;C1;C1
+Passionnée par l’histoire des civilisations disparues, elle veut être archéologue.;C1;C1;C1;B2
+"La caravane traversait lentement les dunes orangées comme le soleil déclinait lentemement pour enfin disparaître et laisser 
+place au froid glacial et à l'obscurité la plus totale et terrifiante.";C1;C1;C1;C1
+Vous ouvrîtes la boîte à musique et découvrîtes un bijou, serti de pierres précieuses multicolors.;C1;C1;C1;C1
+Ce commandant mena plusieurs batailles épiques grâce à sa bravour et ses tactiques militaires ingénieuses.;C1;B2;B2;B2
+Dans ma vie, je gagnai beaucoup d’argent que je dépensai. impunément.;C1;C1;B2;C1
+"Vous mangeâtes des escargots et des langoustines servis dans un plat garnit de glace pillée afin de conserver le met 
+prestigieux au frais.";C1;C2;C1;C1
+Ils créèrent une nouvelle société moderne sur les ruines de l'ancienne civilisation.;C1;C1;C1;B2
+Tu parlas pendant des heures et des heures sans que nulle ne puisse l'interrompre.;C1;C1;B2;C1
+Abasourdis, nous nous promenâmes sans dire un mot.;C1;C1;C1;C2
+Quand elle vécut cette catastrophe hors norme, soudain elle perdit son sang froid.;C1;C1;C1;C1
+Monet peignit ce portrait emplit de sensualité et lourd de symbolisme.;C1;C1;C1;B2
+Au crépuscule, nous vous attendîmes patiament, mais vous oubliâtes notre rendez-vous.;C1;C2;C2;C1
+Cet homme fut grossier ! Quand je parlai, il m’interrompit.;C1;C1;C1;B2
+"Quand il téléphona à la première ministre pour la contraindre à répondre à ses interrogations, elle répondit sèchement 
+qu'elle ne s'y soumetterait pas.";C1;C1;C1;B2
+Malgré leur situation privilégié, ces chatons connurent déjà la misère, la famine et le froid extrême.;C1;C1;C1;C1
+Le chien battit de la queue frénétiquement, puis il rejoignit sa maîtresse en aboyant joyeusement.;C1;C1;C1;B2
+Il fit ses valises énergiquement et vint à notre rencontre avec empressement et détermination.;C1;C1;C1;B2
+Parce que j’avais faim de viande fraîchement saignée, je mangeai de bon appétit, une choppe de bière à la main.;C1;C1;B2;C1
+Les deux veuves se souvinrent avec mélancolie de leurs jeunes années.;C1;C1;C1;C1
+"Ils étudièrent méticuleusement la topographie du territoire avant de s’y aventurer pour récolter des données 
+statistiques équivoques.";C1;C1;C1;C1
+Nous ouvrîmes la fenêtre et laissâmes entrer l’air.;C1;C2;C2;C1
+"Elles se réveillèrent très tôt hier matin afin de se rendre au tribunal pour plaider la cause de leurs maris 
+injustement accusés d'escroquerie.";C1;B2;C1;C1
+Si j’avais su les conséquences désastreuses qui se profilaient, je ne me serais pas présentée à l’entrevue.;C1;C1;B2;C1
+Je me suis creusé la tête sans relache durant des heures pour résoudre ce casse-tête chinois.;C1;C1;C1;B2
+Cette histoire n’a ni queue, ni tête, elle est invraisemblable.;C1;C1;C1;B2
+Quelle tête à claques celle-là !;C1;C1;C1;B2
+Vous méritez un coup de chapeau pour ce merveilleux spectacle innovant et divertissant ! ;C1;C1;C1;C1
+Il faudrait aborder la question le plus tôt possible afin de prendre les mesures coercitives adéquates.;C1;C1;C1;B2
+Il est incontestable que vous êtes le meilleur compétiteur du secteur.;C1;C1;B2;B2
+Au fils des pages, je doutais qu'ils eussent écrit ces lignes  et proses de ses propres mains.;C1;C1;C1;C1
+"Lorsqu’il eut reçu son premier salaire en tant que consultant, Louis courut acquérir une guitare pour chanter 
+une sérénade à sa bien-aimée sous le proche de sa maison.";C1;B2;C1;C1
+Je me fus lourdement trompé dans mon calcul .;C1;C1;B2;C1
+Eus-tu sorti les abats congelés du frigo hier soir afin qu'ils soient à température ambiantes pour le repas de ce midi ?;C1;C1;C1;C2
+Ils furent allés acheter une panoplie de produits d'entretien pour décrasser leur garage.;C1;B2;B2;C1
+Marie et Laurent se furent téléphoné tous les jours dès les premières heures de l'aube.;C1;B2;B2;C1
+Les joueurs se furent rapidement ressaisis après la tentative désastreuse pour égaliser le score avant la mi-temps.;C1;C1;C1;C1
+Quand le soleil eut fini de d'illuminer la step, la pluie arriva tel un torrent.;C1;C1;C1;C1
+Dès qu'il eut fini son intervention éloquante, il partit fièrement.;C1;C1;C1;C1
+Au cas où vous auriez égaré mon numéro de téléphone, je vous le redonne en main propre cette fois-ci.;C1;C1;C1;B2
+Au cas où vous seriez disposés à la recevoir avant le temps, je vous laisse ses disponibilités.;C1;C1;C1;C1
+Je me demande si tu aurais dû agir autrement face à cette épineuse situation.;C1;C1;B2;C1
+Il n'aurait pas dû s'emporter ainsi sans raison apparente, il s'était manifestement monté la tête.;C1;C1;C1;C1
+Si vous aviez cherché ces actes convenablement, vous les auriez trouvés du premier coup.;C1;B2;B2;B2
+Il s’agit d’attaquer le futur dystopique que notre société est en train de se construire;C1;C1;C1;C1
+Je supporte qu’il neige, mais je ne supporte pas que les jours soient si courts.;C1;C1;B2;C1
+Marguerite ne tolère pas que vous soyez arrivés les premiers dans l'ordre de succession.;C1;C1;B2;B2
+Il ne dit jamais rien qui puisse nous affecter outre mesure dans nos estimes de soi.;C1;C1;B2;C1
+On s’attend à ce que la tornade repérée par les indicateurs soit plus dévastatrice et meurtière que la précédente.;C1;B2;B2;B2
+Tu es le seul et l'unique qui ne m’ait pas trahi impunément.;C1;C1;C1;C1
+Quoi que vous ayez pu faire d'inconvenable, personne ne l’a remarqué jusqu'à l'heure.;C1;C1;B2;B2
+Tout un chacun est personnellement concerné par la tourmante de cette famille pourtant tant appréciée et respectée dans le milieu.;C1;B2;B2;B2
+Il n’y a que la tendresse que je t’ai vouée qui puisse égaler mon respect pour toi.;C1;C1;C2;C2
+Il faut que tu saches les choses que tu devras entreprendre le jour où je serais décédé.;C1;C1;C1;C1
+D’abord, je ne pense pas que tu doives trimer jusqu'à la more pour atteindre tes objectifs de réussite.;C1;C1;C1;C1
+Cela est tou à fait facheux et triste qu’elle n’ait pas eu le temps de s'extirper de l'habitacle.;C1;C1;C1;C1
+C’est dramatique qu’ils aient été amnésique suite au terrible accident survenu lors des tests de laboratoire.;C1;C1;C1;C1
+Ce n’est pas raisonnable que vous soyez parti(e)s à une heure si tardive;C1;C1;C1;C1
+C’est regrettable que tu ne sois pas venue à la soirée.;C1;C1;C1;C1
+C’est étonnant qu’elles n’aient pas eu envie de boire une bière.;C1;C1;C1;C1
+Avant de partir, il faudra que tu aies parlé à tous les invités.;C1;C1;C1;C2
+Où que tu sois allé, tu aurais dû me le dire.;C1;C1;C1;C1
+Mon amoureux est fâché que je n’aie pas téléphoné hier soir.;C1;C1;C1;C1
+Nous sommes contents que vous ayez pu venir au spectacle.;C1;C1;C1;C2
+On a eu de la chance qu’il n’ait pas neigé !;C1;C1;C1;C1
+Je suis très surprise que tu n’aies pas reçu ...;C1;C1;C1;C2
+C’est gentil qu’il ait bien voulu nous parler.;C1;C1;C1;C1
+C’est triste qu’il ait dû s’absenter du travail ...;C1;C1;C1;C1
+C’est pénible qu’il ait fallu recommencer à reclasser les dossiers;C1;C1;C1;C1
+Je suis très contente que nous ayons assisté à cette conférence;C1;C1;C1;C1
+C’est drôle qu’ils se soient vus par hasard.;C1;C1;C1;C2
+Je suis désolé qu’il ait été malade.;C1;C1;C1;C1
+Ce n’est pas normal que le conférencier soit arrivé en retard;C1;;C1;C1
+Tu es heureuse que les spectateurs aient applaudi.;C1;C1;C1;C1
+Je regrette que vous ayez dit des choses;C1;C1;C1;C1
+Vous pourrez compter sur notre présence, à moins que nous ne devions accueillir les invités étrangers.;C1;C1;B2;C2
+Il faudra que nous quittions la France aujourd’hui et que nous allions les rencontrer.;C1;C1;C1;C1
+"Que nous le voulions ou non, il faudra que nous nous rendions à Genève et que nous nous asseyions 
+à la table des négociations.";C1;C2;C2;C2
+Penses-tu que nous le valions à la tribune ?;C1;C1;C1;C1
+Quoi que nous fassions, nous craignons qu’il ne soit difficile d’arriver à un accord.;C1;C1;C1;C1
+J’eus un haut le coeur lorsqu’il eut osé me saluer.;C1;C1;C1;C2
+Dès qu’elle fut née, elle commença à attirer l’attention de tous.;C1;C1;C1;C1
+Quand elles se furent aperçues de leur erreur, elles rougirent.;C1;C2;C1;C2
+Sans l’argent que tu m’as prêté, je n’aurais pas pu aller à l’épicerie.;C1;B2;C1;B2
+Si nous n’avions pas eu d’argent comptant, nous aurions payé avec une carte.;C1;C1;C1;B2
+Sans votre aide, ils auraient été dans une situation délicate.;C1;B2;B2;C1
+Ce chanteur à la mode aurait plu à ma grand-mère.;C1;C1;C2;C1
+Autrefois, je n’aurais rien dit, je me serais tu;C1;B2;B2;C1
+" Tous les soirs, mon humain et moi nous installons sur le canapé, et il me fait des calins en regardant la télé jusqu'à ce que je m'endorme la tête sur ses genoux.
+";C1;;;
+Avec la disparition des parents se dénouent enfin les liens qui nous emprisonnent dans la loyauté familiale.;C1;;;
+A 50-60 ans, certains paniquent à l'idée de se retrouver en tête-à-tête avec quelqu'un à qui ils n'ont plus rien à dire, constate la psychosociologue Odile Lamourère (Célibataire aujourd'hui, les Editions de l'Homme).;C1;;;
+Ils gardent deux résidences et cohabitent de temps en temps chez l'un ou chez l'autre.;C1;;;
+La cinquantaine marque une rupture dans la vie des femmes car elle est synonyme de transformations physiques et fonctionnelles, soulignent-elles.;C1;;;
+"Pour amorcer une nouvelle vie, elles doivent faire leur deuil des bébés qu'elles n'auront plus et de la femme jeune 
+et séduisante qu'elles ne seront plus.";C1;;;
+"Dur, pour les filles de la génération «hommes, femmes, même combat», d'accepter l'inégalité biologique: leurs hommes peuvent encore faire des enfants, elles, non.
+";C1;;;
+Le grand problème des hommes du baby-boom est la perte de pouvoir, plus que les griffures du temps et même plus que le déclin de la puissance sexuelle.;C1;;;
+En 1763, après avoir perdu la bataille des plaines d'Abraham de 1759, l'empire français cède ses terres à l'empire britannique et il n'y a plus d'échange entre la France et le Québec.;C1;;;
+"Il s'installe à la table et tapote plein de petits boutons devant une mini télé; et dès que je commence à m'endormir, il se met à parler à d'autres minis humains dans la télé.";C1;;;
+J'ai été élevé par deux femmes exceptionnelles, racontait-il clans une Interview enregistrée en 1981 oui il apparaît, direct et affable, en compagnie de sa fille et de sa petite-fille. ;C1;;;
+Je réitère donc ma demande de congé sabbatique pour les dates que je vous ai communiquées dans 111a demande du 8 janvier dernier. ;C1;;;
+La cerise sur le gâteau, c'est que je n'ai plus le droit de jouer avec mon os qui couine, et Daffy et moi ne pouvons plus nous battre en paix sans être interrompu par mon humain.;C1;;;
+Les nationalités non soumises à visa (liste commune établie par les pays membres) peuvent circuler sur le territoire Schengen pendant une période de 3 mois au maximum.;C1;;;
+Notre jogging matinal est devenu une course d'obstacles où on évite tous les autres passants, c'est très fatigant et agaçant.;C1;;;
+Dans les écoles de commerce, dans les couloirs de places financières, il arrive aujourd’hui de croiser de jeunes adultes de 20 ou 25 ans qui prévoient d’ouvrir une maison d’hôtes dans une quinzaine d’années .;C1;;;
+"Les familles qui continuent de la parler voient diminuer le nombre de leurs interlocuteurs et, le domaine d’usage se 
+rétrécissant, cela aboutit à la création de dialectes familiaux .";C1;;;
+Si la multiplicité des cultures est une condition nécessaire pour un développement humain réussi, alors la préservation de la diversité linguistique est essentielle, puisque les langues écrites et orales sont le principal mode de transmission des cultures.;C1;;;
+Depuis qu’elles se sont diversifiées, au moins 30 000 sont nées et se sont éteintes, souvent sans laisser de trace.;C1;;;
+Le danger qui pèse sur le multilinguisme est analogue à celui qui concerne la biodiversité.;C1;;;
+Il est évident que des écoles si différentes ont dû employer des procédés de composition absolument opposés.;C1;;;
+Pour nous émouvoir, comme il l'a été lui-même par le spectacle de la vie, il doit la reproduire devant nos yeux avec une scrupuleuse ressemblance.;C1;;;
+Il devra donc composer son oeuvre d'une manière si adroite, si dissimulée, et d'apparence si simple, qu'il soit impossible d'en apercevoir et d'en indiquer le plan, de découvrir ses intentions.;C1;;;
+"On comprend qu'une semblable manière de composer, si différente de l'ancien procédé visible à tous les yeux; déroute souvent les critiques, et qu'ils ne découvrent pas tous les fils si minces, si secrets, presque invisibles, employés par certains artistes modernes à la place de la ficelle unique qui avait nom : l'Intrigue.";C1;;;
+Mais en se plaçant au point de vue même de ces artistes réalistes, on doit discuter et contester leur théorie qui semble pouvoir être résumée par ces mots : Rien que la vérité et toute la vérité.;C1;;;
+Quel enfantillage, d'ailleurs, de croire à la réalité puisque nous portons chacun la nôtre dans notre pensée et dans nos organes.;C1;;;
+Sur la côte, ils chassent les phoques et les baleines tandis qu'à l'intérieur des terres, ils y élèvent le renne.;C1;;;
+En 2001, Rosalie a expliqué à l'ONU, auprès du groupe de travail sur les peuples autochtones, en quoi la survie des bisons sauvages est essentielle et symbolique pour les Indiens des plaines Le bison a toujours été un animal sacré pour les Indiens des plaines, crucial dans leur culture.;C1;;;
+Il aurait mieux valu que tu arrives plus tôt.;C1;C1;C1;C1
+Il aurait fallu que tu battes les oeufs avant de les cuire.;C1;C1;C1;C1
+Si je n’avais pas eu mal au dos, je ne serais pas allé chez la massothérapeute.;C1;C1;C1;C1
+Pierre qui roule n’amasse pas mousse;C1;C1;C1;C1
+Nous avons remarqué quelques irrégularités dans la procédure.;C1;C1;C1;C1
+Quant à moi, je préfère rester sur mes positions.;C1;C1;C1;C1
+Les différents qui les opposent ne sont pas insurmontables.;C1;C1;C1;C2
+Nous apprécions qu’ils aient répondu sur-le-champ.;C1;C1;C1;C2
+L’employeur a décidé de défrayer les dépenses de voyage de ses employés.;C1;C1;C1;C1
+Se sentant lésée, elle veut déposer une plainte contre la direction.;C1;C1;C1;C1
+Tout d’abord, il importe de faire le bilan des dernières réalisations.;C1;C1;B2;C1
+Ils ont opté pour le maintient de la ligne dure.;C1;C1;C1;C2
+Elle excelle dans toutes les tâches qu’on lui confie;C1;C1;C1;C2
+"De la fenêtre pratiquée au haut de la tour descendait une corde à l’aide de laquelle on leur montait tout ce 
+qui leur était nécessaire.";C1;C1;C1;C1
+"Il y avait, sur une table de sapin, une chandelle fixée dans le goulot d’une bouteille, deux ou trois gobelets d’étain, 
+un gros pain, un morceau de beurre et une assiette.";C1;C1;C1;C1
+"Les maisons neuves, crépies de frais, étaient entourées de jardins potagers où poussaient, mélangés mais alignés, 
+les légumes et les fleurs, les choux et les rosiers, les poireaux et les gueules-de-loup, les céleris et les anémones.";C1;C1;C1;C2
+"L’arme était à mi-hauteur lorsque la louve, comme mue par un ressort, fit un bond de côté et disparut derrière 
+le bosquet de sapins.";C1;C1;C1;C1
+"Dans un coin de la pièce, au milieu d’un tas de gravats, un escabeau montait vers une ouverture du plafond, 
+assez large pour laisser passer un homme.";C1;B2;C1;C1
+Je suis un as des filatures.;C1;C1;C1;C1
+La chauve-souris est un mammifère de l’ordre des chiroptères;C1;C1;C1;C1
+Ils ont décimé les Amérindiens et ont employé des esclaves africains dans leurs mines et leurs plantations.;C1;C1;C1;C1
+Peut-on s’en étonner, quand le roi ne croit que les gens malfaisants, quand il n’écoute pas ses meilleurs barons ?;C1;C1;C1;C1
+Instinctivement je regardai ma montre : deux heures du matin.;C1;B2;B2;C1
+Depuis huit jours elle ne peut plus ni manger ni boire, une arête de poisson lui barre et lui bouche le gosier.;C1;C1;C1;C1
+Versez peu à peu la farine dans le mélange oeuf-sucre pour éviter les grumeaux;C1;B2;C1;C1
+Robert percevait même les grincements du grillage contre lequel il devait se lancer de toutes ses forces.;C1;B2;C1;C1
+Je grimpai jusqu’à mi-pente, démontai et, tenant l’arc à demi bandé, parvins en haut de la colline.;C1;C1;C1;C1
+Sitôt qu’il fut né, il ne cria pas comme les autres enfants;C1;C1;C1;C1
+"Les pruniers étaient nus, les pommiers étaient jaunes, les feuilles de noyer tombaient en une sorte de vol plané, large 
+et lent d’abord, qui s’accentuait d’un seul coup comme un plongeon d’épervier dès que l’angle de chute 
+devenait moins obtus.";C1;C1;C1;C2
+Bien-aimé, maudit soit cet orage qui me retint en mer, m’empêchant de venir à temps !;C1;C1;C1;C2
+"Les genoux au menton, les bras croisés sur la poitrine, il se fit boule pour mieux interroger le mot qui ne quittait 
+jamais longtemps sa pensée.";C1;C1;C1;C1
+Sa figure ovale s’était allongée, sa bouche rieuse avait pris ces lignes fermes et arrêtées qui indiquent la résolution;C1;C1;C1;C2
+Il s’arrêtait toutes les quatre ou cinq brasses pour écouter la cloche mais, à chaque halte, elle semblait plus éloignée.;C1;C1;C1;C1
+Je venais d’arriver au faîte du sentier quand, dans un éclair, je me rappelai cette chose capitale que j’avais tant cherchée.;C1;B2;C1;C1
+Le curé possédait également un âne, solide, obstiné juste ce qu’il fallait, très doux, qui lui faisait toutes ses besognes.;C1;C1;C1;C1
+"Il explora tout le rez-de-chaussée et découvrit un appentis, ou plutôt un petit hangar encombré de vieilles 
+caisses et de deux carcasses de camionnettes.";C1;C1;C1;C2
+"Ici, dans le palais, l’air était lourd et étouffant, mais, dans la forêt, le vent soufflait librement et le soleil, 
+de ses caressants doigts d’or, écartait les feuilles frémissantes.";C1;B2;C1;C1
+"Notre charrette avait franchi le sommet d’un autre monticule ; en face de nous s’étalait l’immense étendue 
+de la lande, semée de rocs et de rochers.";C1;C1;C1;C1
+Il avait fait stoïquement le sacrifice de sa vie, et voyait venir sans trembler, l’heure où il la devrait risquer.;C1;C2;C1;C1
+"Une cicatrice profonde partageait sa figure en deux, depuis les cheveux jusqu’au cou ; et l’affreuse 
+mutilation lui donnait un aspect terrible.";C1;C1;C1;C1
+"Des clameurs stridentes montaient ; ensuite l’on n’entendait plus qu’une sorte de halètement.";C1;C1;C1;C1
+"Elle ni lui pourtant n’éprouvaient de crainte, mais bien plutôt une fierté joyeuse, et qui leur donnait le 
+désir de mener l’entreprise à bien, jusqu’à la fin.";C1;C1;C1;C2
+"Les galopins du village s’en faisaient un jeu, et leurs ébats avaient même tracé sur la pente du monticule un 
+imperceptible sentier.";C1;C1;C1;C2
+"Le bruit des pas devenait indistinct ; il se demandait par moments, si c’était le martèlement de la fièvre dans ses artères";C1;C1;C1;C2
+Ils marchèrent pour y atteindre, et les traces de leurs chevaux se voyaient sur le sol boueux, dans la clarté pâle de l’aube.;C1;C1;C1;C1
+"Des lueurs rouges commençaient à éclater dans le village ; parfois, un long mugissement partait de 
+quelque étable incendiée.";C1;C1;C1;C2
+Le presbytère est situé derrière l’église, avec laquelle il communique par le cimetière.;C1;C1;C1;C1
+Le ciel d’avril, au-dessus de nos têtes, planait limpide et fourmillant d’étoiles;C1;C1;C1;C2
+"Celles-ci rampaient comme des serpents ; celles-là fendaient les airs comme des hippogriffes.";C1;C1;C1;C1
+C’est un retour impatiemment guetté par les gamins des bourgades bretonnes.;C1;C2;C1;C1
+"L’accostage terminé, lorsque les chaloupes déversent à terre leurs myriades de poissons étincelants, les 
+femmes qui les empilent à mesure dans des corbeilles ont l’air de brasser un butin barbare";C1;C1;C1;C2
+"Vous eussiez juré que les gens la voyaient, l’entendaient rouler pesamment devant eux, retentissante 
+de tous les trésors enfermés dans ses flancs.";C1;C1;C1;C2
+"C’était une pièce vide et triste ; aux parois lépreuses des murs s’effiloquaient des débris d’affiches officielles";C1;C1;C1;C2
+"De hauts sapins noirs interdisaient à la lumière du soleil de pénétrer dans le sous-bois 
+où serpentait un obscur sentier bordé de silhouettes menaçantes prêtes à nous bondir dessus.";C2;C2;C2;C1
+Vous allâtes dans une contrée lointaine pour tout oublier de vos erreurs passées dont seul le commun des mortels ignore.;C2;C2;C2;C2
+Nous voulûmes donner suite à sa requête, mais nous dûmes nous résoudre et nous nous tûmes sur les tenants et aboutissants.;C2;C2;C2;C2
+Nous nous assîmes sur un banc recouvert de verdure, face aux cieux étincellant et nous vîmes l’aurore s'éveiller.;C2;C2;C2;C2
+"Lorsque nous lûmes ce passage émouvant, nous rappelant les jours heureux passés, nous pleurâmes face à nos 
+existances misérables et sans lendemain.";C2;C2;C2;C2
+Nous crûmes qu’il avait commis une erreur fatale à leur salut mais finalement, ils fûrent délivrés pas le destin.;C2;C2;C2;C1
+J’eus de nombreuses maladies infectieuses et je dus garder le lit durant des semaines en isolement total sans l'ombre d'un espoir.;C2;C2;C2;C1
+Accompagnés de vos fidèles compagnons d'arme, vous  parlâtes de tout et de rien jusqu’à tard dans les méandres de la nuit.;C2;C2;C2;C1
+Aussitôt installés derrière nos pupitres, nous commençâmes la discussion thématique inscrite à l'ordre du jour.;C2;C2;C2;C1
+Vous souffrîtes du froid intense de l’hiver qui s'engoufrait dans les avenues bondées de passants empressés.;C2;C2;C2;C1
+J’eusse dû te le confier en amont de notre conversation avec les investisseurs.;C2;C1;C2;C2
+Il marque en outre l’instant où la dichotomie entre le moi et le monde se résorbe.;C2;C2;C2;C2
+"Finalement, il est aussi question de scepticisme, réalisation du stoïcisme, et décriant l’être autre 
+comme subjectif et remettant donc en cause son aspect véridique et absolu.";C2;C2;C2;C2
+Bienheureux le quidam que voilà débarrassé de cette peur originelle d’échouer et de faire faux !;C2;C1;C2;C2
+"Mais la racine du mal est bel est bien cette façon de penser tendant vers un manichéisme néfaste, néfaste car le 
+respect des opinions divergentes et le débat s’estompent au profit de l’extrémisme et l’uniformisme de la pensée";C2;C2;C2;C2
+"Vous vous retrouverez alors vite attaqués de toutes parts par des personnes ne s’étant pas renseignées sur le 
+sujet mais jouant les parfait petits soldats de la grande Doxa de ce siècle";C2;C1;C2;C2
+"Car sans incertitude nous serions cantonnés à une vie morne, dont la fresque ne serait teinte que de 
+dégradés de gris, en absence complète de couleurs.";C2;C2;C2;C2
+"De plus, nous assistons aussi à la perte d’une caractéristique ô combien essentielle et salvatrice pour 
+notre espèce : la faculté d’empathie";C2;C2;C2;C2
+"Il souhaite que nous voyions les ambassadeurs, que nous nous entendions avec eux, mais il ne veut pas que nous
+ leur avouions nos intentions.";C2;C2;C2;C2
+Le jardin commença à fleurir après qu’il se fut mis à faire chaud.;C2;C2;C2;C2
+Lorsqu’elle eut revu son premier amoureux, son coeur battit follement.;C2;C2;C2;C2
+Après qu’il eut révélé son terrible secret, il se sentit soulagé.;C2;C2;C2;C2
+Aussitôt que Julie eut découvert la vérité, elle fut furieuse.;C2;C2;C2;C2
+Après qu’il eut lu sa correspondance, il sortit faire une promenade.;C2;C2;C2;C2
+Dès qu’elle fut rentrée, elle éclata en sanglots.;C2;C2;C2;C2
+Sa vie devint un enfer quand elle eut compris que son mari la trompait.;C2;C2;C2;C2
+Après qu’il eut perdu ses enfants dans l’incendie, il sombra dans la folie.;C2;C2;C2;C2
+Lorsque vous vous fûtes senties mieux, nous recommençâmes à nous voir.;C2;C2;C2;C2
+Dès que vous eûtes ouvert la porte, le chat entra avec empressement.;C2;C2;C2;C2
+La vie lui sourit quand elle eut fini par l’apprécier.;C2;C2;C2;C2
+Parce qu’ils se furent dépêchés, ils arrivèrent à temps pour le bal.;C2;C2;C2;C2
+Quand elle fut arrivée au cimetière, elle s’agenouilla pour prier.;C2;C2;C2;C2
+Dès que nous eûmes reçu de ses nouvelles, nous fûmes soulagés.;C2;C2;C2;C2
+Ils rentrèrent se reposer après qu’ils eurent fait le tour du lac en chaloupe.;C2;C2;C2;C2
+Quand tu eus appelé à l’aide, ils vinrent nous porter secours.;C2;C2;C2;C2
+Après que vous vous fûtes enrichies, vous vous souvinrent de vos débuts difficiles.;C2;C2;C2;C2
+Tu mangeas les petits fruits dès que tu les eus cueillis.;C2;C2;C2;C2
+Quand je me fus assis, je remarquai l’omniprésence des papillons.;C2;C2;C2;C2
+Vous sortîtes précipitamment après que vous eûtes mis votre chapeau.;C2;C2;C2;C2
+Cet homme me plut dès que je l’eus vu.;C2;C2;C1;C2
+Ils rentrèrent au pays après qu’ils eurent vécu en Europe.;C2;C2;C2;C2
+L’artiste peignit un paysage qu’il eut vu.;C2;C2;C2;C2
+Nous dûmes nous excuser des propos que nous eûmes prononcés.;C2;C2;C2;C2
+Aussitôt qu’elle eut perdu son chien, elle le chercha désespérément.;C2;C2;C2;C2
+Nous nous précipitâmes à l’extérieur dès qu’il n’eut plus plut.;C2;C2;C2;C2
+Les enfants chantèrent les chansons qu’ils eurent apprises de leur professeur.;C2;C2;C2;C2
+Je lus un roman que je me fus procuré à la bibliothèque centrale.;C2;C2;C2;C2
+Vous attendîtes la surprise que vos parents vous eurent promise.;C2;C2;C2;C2
+Tu portas cette robe de soie bleue que j’eus cousue.;C2;C2;C2;C2
+Je sortis quand j’eus pris mes clés.;C2;C2;C2;C1
+Il goûta cette sauce aussitôt que tu la eus préparée.;C2;C2;C2;C2
+Nous crûmes longtemps que nos ancêtres eurent vécu une vie de rêve.;C2;C2;C2;C2
+Ce comédien joua dans plusieurs pièces que mon frère eut écrites.;C2;C2;C2;C2
+Aussitôt que vous eûtes résolu ce problème, vous partîtes.;C2;C2;C2;C2
+Elle médita pendant des jours sur une nouvelle que l’on eut répandue.;C2;C2;C2;C2
+Tu revis des gens que tu eus connus depuis plusieurs années.;C2;C2;C2;C2
+Je leur donnai le bijou seulement après qu’ils l’eurent payé.;C2;C2;C2;C2
+Il se tut une fois qu’il eut convaincu l’assistance du bien fondé de son opinion.;C2;C2;C2;C2
+Elles regrettèrent leur geste après qu’elles furent descendues du train.;C2;C2;C2;C2
+Je me rappelai tous les efforts qu’il eut fallu faire pour réussir.;C2;C2;C2;C2
+Vous vous installâtes à Paris une fois que vous vous fûtes inscrites à l’université.;C2;C2;C2;C2
+Dès que j’eus dégusté mon repas, je me sentis apaisé.;C2;C2;C2;C2
+Quand Ulysse fut parti, Pénélope demeura pensive.;C2;C2;C2;C2
+Dès qu’elle fut entrée elle fut dérangée par la cigarette.;C2;C2;C2;C2
+"Mais à l’opposé, si je me laissais prendre Verdun, pour n’avoir pas cru assez vite que c’était sérieux, les mêmes 
+diraient que je suis décidément bouché à l’émeri.";C2;C2;C2;C2
+"Il a professé à Padoue des principes d’une philosophie qui sent le fagot, dit-on, et ses nombreuses découvertes dans 
+des sciences dangereuses pourront bien finir par le brouiller tout à fait avec l’Église.";C2;C1;C2;C2
+"Pourfendeur des sciences et des arts, fossoyeur de la propriété privée, contempteur de la monarchie, ce bonhomme, 
+qui égratigne au passage les médecins, les femmes, les gens de lettres et les Anglais, sent le fagot.";C2;C2;C2;C2
+"Le verbe d’Adnane était entièrement vacciné contre les mots omniprésents de la langue de bois de l’époque, 
+comme s’il avait des oreilles-passoires filtrant les mots des médias et des haut-parleurs plantés sur chaque quartier.";C2;C2;C2;C2
+"Rencontrant dans mon cours de biologie une notion complexe, je descendis pour aller demander à mon père 
+d’éclairer ma lanterne.";C2;C2;C2;C2
+Mieux valait oublier le mauvais plaisantin qui m’avait posé un lapin.;C2;C2;C2;C2
+"Voilà une cascade de sottises qui donnera beau jeu aux rieurs, et que je recommande à votre bonne humeur et 
+à vos nuits blanches à force de rire.";C2;C2;C1;C2
+"On avait eu soin de mettre des factionnaires aux portes, de retirer les clés, si bien qu’on ne parvenait qu’à grand-peine 
+dans la salle à moitié pleine, et que quiconque ne pouvait pas montrer patte blanche à la porte, 
+était impitoyablement refusé.";C2;C2;C2;C2
+"Il est passé aujourd’hui en oracle divin, ce mot de Luther, qu’il n’est pas plus possible de retenir son envie que sa salive ; 
+ni plus facile à l’homme et à la femme de se passer l’un de l’autre, qu’à l’un ou l’autre de se passer de boire et de manger.";C2;C2;C2;C2
+La bave du crapaud n’atteint pas la blanche colombe;C2;C2;C2;C2
+Cette chemise te va comme guètres à un lapin !;C2;C2;C2;C2
+Dépèchons-nous, nous avons du pain sur la planche !;C2;C2;C2;C2
+L’entrepreneur a présenté une estimation tout à fait raisonnable.;C2;B2;B2;C1
+"Figurez-vous tous ces pauvres gens, entassés dans un logement insalubre, sous un plafond qui menace de 
+s’effondrer à tout moment";C2;C2;C2;C2
+C’est d’un savetier, afin qu’on en rie, que sans vilain mot je dirai l’histoire.;C2;C2;C2;C2
+"On lui accorda, pour compagnes, et afin de l’aider lors de son accouchement, deux femmes des plus sages 
+ furent cloîtrées avec elle.";C2;C2;C2;C1
+"Son pelage était celui d’un loup, avec une dominante grise nettement marquée, mais des reflets rouges insaisissables,
+ furtifs comme des ombres, couraient par instants dans sa fourrure, la faisant paraître tantôt grise,
+ tantôt – trop fugacement pour que l’impression demeure – d’une belle couleur fauve.";C2;C2;C2;C2
+En se retournant, Henry pouvait voir leurs langues rouges, épaisses, et les côtes qui saillaient sur leurs flancs.;C2;C2;C1;C2
+"Nous nous élançâmes alors tous deux en même temps et, cette fois, elle céda avec un bruit sec et nous nous 
+trouvâmes dans la chambre de Barthélemy Sholto.";C2;C2;C2;C2
+Nous n’eûmes aucun mal à retrouver l’homme parmi la foule des voyageurs qui convergeaient vers la sortie;C2;C2;C1;C2
+"En arrivant à la grande place de Mexico, nous tombâmes en admiration devant l’immense quantité de monde 
+et de marchandises qui s’y trouvait.";C2;C2;C1;C2
+Certains partirent furibonds, jurant qu’ils ne se soumettraient jamais à un roi trop jeune pour avoir de la barbe au menton;C2;C2;C2;C2
+"Il se servait du bout de sa patte ainsi que d’une raquette veloutée et frappait juste assez fort pour faire voler, 
+sans lui infliger la moindre meurtrissure, un corps de petite fille.";C2;C2;C2;C2
+Puis, quand ils eurent dépassé le bûcheron, celui-ci les rappela pour leur demander s’ils souhaitaient un cheval.;C2;C2;C2;C2
+"On éventrait la croûte, on mordait à même, on se brûlait, on se retirait vivement et la pomme de terre roulait 
+quelquefois sur les genoux où une main leste la rattrapait à temps";C2;C2;C2;C2
+"Vous n’avez pas le droit d’oublier les serments que vous échangeâtes lors du baiser d’adieu dans le jardin
+ où vous lui donnâtes cet anneau";C2;C2;C2;C2
+Son oncle la toisait avec une expression de fureur contenue, et elle n’osait pas croiser son regard.;C2;C2;C2;C2
+"Je resterai, néanmoins, fidèle à ma règle habituelle, qui consiste à accorder la préférence aux affaires 
+dont l’intérêt provient moins de la sauvagerie du crime que de l’ingéniosité et de l’imprévu de la solution.";C2;C2;C2;C2
+Et c’est aux mains vives de la brise que vivent et brillent des aiguilles qui cousent la mer avec la haie.;C2;;C2;C2
+"Et c’est là, contre un mur aveugle, devant des enseignes de magasins rongées par la rouille, que je pris la décision 
+extrême de ne plus jamais retourner à l’orphelinat.";C2;C1;C1;C1
+"Quand l’homme de condition moyenne devient un grand personnage, les flatteries commencent à se
+ terner et les médisances à fleurir";C2;C1;C2;C2
+"Sa face plate, au nez camard, luisait comme si on l’eût frottée d’huile, et son dos rond, son encolure 
+épaisse avec ce dandinement machinal, faisaient penser à quelque bête, à un ours difforme et monstrueux.";C2;C2;C2;C2
+Un ouragan de fer s’abattit sur les Bleus, et couvrit la place de morts.;C2;C1;C2;C2
+"Sans plus d’hésitation, il tourna vers la gauche ; son pas sonnait sur la terre durcie, et ce bruit cadencé, 
+monotone, assoupissait en le berçant, le tumulte de son esprit.";C2;C2;C2;C2
+Car si subite avait été sa pâmoison, qu’elle avait pris pour une vision l’entrée soudaine de Gérard.;C2;C2;C2;C2
+"Deux paysans en tête et deux en queue portaient comme une forme humaine, et le caqueux marchait 
+derrière, et battait le fusil pour allumer sa pipe.";C2;C2;C2;C2
+"C’était une chétive créature, une masse de chair ridée, avec des paupières entre-closes, des traits informes 
+et à peine ébauchés.";C2;C2;C2;C2
+Puis, d’atroces élancements le dardèrent de ses blessures.;C2;C2;C2;C2
+Tout à coup, son regard tomba parmi le fouillis des madriers, sur un étui de bois triangulaire et rouge.;C2;C2;C2;C2
+Ils suivaient une sente creuse que dominait des deux côtés un talus de six pieds de haut.;C2;C1;C2;C2
+Cette tranquillité ne l’effrayait pas moins que s’il eût trouvé le logis en rumeur;C2;C1;C2;C2
+"Sur une sorte de haquet, deux futailles de vin posaient, car c’était pour fêter la surprise d’un petit convoi 
+républicain que Charette avait accordé cette débauche à son armée.";C2;C2;C2;C2
+"La gouvernante avait le nez bossué de verrues qui faisaient penser à des taupinières et les joues creuses, de 
+larges sillons, comme les champs, après les labours d’octobre.";C2;C2;C2;C2
+"Une manière de sayon en peau de bique enveloppait son torse, et ses jambes étaient comme engaînées 
+dans ces braies étroites";C2;C2;C2;C2
+"Dans la profondeur des hautes bâtisses moyenâgeuses de la rue des Nobles ou de la rue des Archers se creusent 
+des espèces d’arrière-cours où les sombres maçonneries qui les encadrent entretiennent une constante humidité de 
+sépulcre et ne laissent pénétrer qu’un filet de jour spectral, tombé du mince hublot de ciel que découpent 
+les toits en surplomb.";C2;C2;C2;C2
+"Pourquoi ne redeviendrait-il pas la belle plante humaine, robuste et droite, qu’il était hier encore, avant que 
+l’humidité des caves morlaisiennes n’eût aigri sa sève et noué ses rameaux ?";C2;C2;C2;C2
+Car, si les émoluments fixes étaient insignifiants, il y avait le casuel, il y avait surtout les quêtes à domicile.;C2;C2;C2;C2
+Les noeuds de ses reins et de son échine s’étaient relâchés.;C2;C2;C2;C2
+Ils tintaient le glas, maintenant, un glas d’une tristesse inexprimable, lourd de larmes, tout gonflé de sanglots.;C2;C2;C2;C2
+Puis, il y eut une pause lugubre, suivie d’un vaste soupir d’agonie où l’on eût dit que l’âme de la grosse cloche s’exhalait.;C2;C2;C2;C2
+La burette d’encre et la plume dont le médecin se servait pour libeller ses ordonnances étaient sur la table.;C2;C2;C1;C2
+"Du fond de la ténèbre verte, toute criblée de gouttes de lumière, une petite forme humaine, pelotonnée 
+dans son élan, déboula comme un lièvre.";C2;C1;C2;C2
+"On dirait d’une caravane immense, d’une espèce de fantasia nautique, somptueusement bariolée, évoluant, 
+aux derniers feux du soleil, sur la tranquille splendeur des eaux.";C2;C2;C2;C2
+Le commissaire était capable d’estimer que la chose ne méritait point qu’on le dérangeât;C2;C2;C2;C2
+"On les voit arriver de leur pas alenti, suçant de leurs lèvres crispées la courte pipe de terre brune, 
+dont ils secouent la cendre sur leur pouce";C2;C2;C2;C2
+"Il arrivait pourtant qu’il cherchât à s’y dérober, non que notre hospitalité lui fût à charge, mais par 
+discrétion, car c’était une âme fière et d’une susceptibilité un peu farouche.";C2;C2;C2;C2
+On eût difficilement imaginé un plus baroque assemblage de vêtures surannées;C2;C2;C2;C2
+Sur les flancs et les derrières de la noce, tout le village en rumeur bourdonnait comme un essaim;C2;C1;C2;C2
+"La vieille acquiesça de la tête, sous sa grand cornette à l’ancienne mode, dont les ailes recourbées
+ l’enveloppaient quasi toute de leurs blanches mousselines empesées";C2;C2;C2;C2
+Il fallait qu’il débitât les nouvelles apprises d’un terroir à l’autre;C2;C2;C2;C2
+"Vous eussiez dit deux éclairs bleuâtres, pareils aux épars, non suivis de tonnerre, qui labourent parfois les 
+firmaments sans nuages des chaudes nuits d’été.";C2;C2;C2;C2
+"Le mot « robot » a été inventé par l’auteur tchèque Karel Capek de la pièce Rossum’s Universal Robots (R.U.R), 
+jouée en 1920, et qui mettait en scène des hommes décérébrés prenant la place des ouvriers dans les usines.
+";C2;;;
+"En parallèle, les romans et les films de science-fiction ont présenté des robots, comme les « Transformers » 
+par exemple, aux pouvoirs surhumains.";C2;;;
+"J’ai identifié trois peurs fondamentales du robot: la crainte instinctive du métal contre la chair, la crainte sociétale, 
+presque désespérée du robot qui va voler le travail de l’homme, et, enfin, la crainte identitaire de voir le robot nous 
+dépasser en capacités intellectuelles ou autres.";C2;;;
+"Les véhicules seront autonomes, plus besoin de chauffeurs, les opérations chirurgicales seront robotisées, les mines 
+seront exploitées par des robots...";C2;;;
+Il sera nécessaire de faire un effort de pédagogie pour faire adopter ces nouvelles technologies qui se banaliseront.;C2;;;
+"C’est pourquoi, il décida de remplacer les habi-tuelles portes automatiques par des portiers en superbe livrée, ce qui donna 
+un caractère très luxueux à cet aéroport.";C2;;;
+"Un visage humain est projeté sur un masque de plastique et s’adapte à son interlocuteur (rire, larmes, dédain, gêne, neutre...)
+";C2;;;
+Étymologiquement, l'intelligence, c'est la capacité à faire des liens.;C2;;;
+"Le gouvernement veut lutter contre la fraude dans la rénovation énergétique, notamment en renforçant les contrôles et en
+ s'attaquant aux «démarchages téléphoniques abusifs».";C2;;;
+"Auparavant, la duplication de l’ADN se faisait par clonage moléculaire : la séquence d’intérêt était insérée dans le génome d’une 
+bactérie et l’on se servait du taux de croissance élevé du micro-organisme pour obtenir autant de clones de la séquence d’ADN.";C2;;;
+"Il y a là un plus grand équilibre entre le rôle que les communes jouent à travers la planification d’affectation et celui des cantons qui 
+limitent les « excès » en termes d’utilisation du sol à travers une planification directrice plus ou moins restrictive en termes de 
+nouvelles extensions urbaines.";C2;;;
+"Dans d’autres cas il s’agit de limites relatives, basées sur un taux de croissance démographique de référence, valables là 
+aussi uniquement hors centres ou pondérées en fonction du degré de centralité.";C2;;;
+"L’analyse des valeurs de l’indice de consolidation institutionnelle montre également le caractère très fragmenté du maillage 
+communal suisse en comparaison européenne.";C2;;;
+"Que le vulgaire croie à des comètes extraordinaires qui traversent l’espace, ou à l’existence de monstres antédiluviens qui 
+peuplent l’intérieur du globe, passe encore, mais ni l’astronome, ni le géologue n’admettent de telles chimères. ";C2;;;
+"Elle génère donc un espace où se manifestent des modes d'expression très divers, en fonction des projets de séances qui 
+présentent plus ou moins d'improvisation ou de mise en forme ainsi qu'en fonction de la variabilité et de la composition des 
+groupes.";C2;;;
+"Le gouvernement veut lutter contre la fraude dans la rénovation énergétique, notamment en renforçant les contrôles et en 
+s'attaquant aux «démarchages téléphoniques abusifs».";C2;;;
+"Mus par un cartésianisme extrémiste, les programmes sont concentrés sur la grammaire et l'apprentissage de règles 
+théoriques, et se fondent principalement sur la mémorisation.";C2;;;
+Pas parce qu'il vaut mieux dans sa vie parler allemand qu'espagnol, mais parce que l'allemand est réputé plus difficile;C2;;;
+"(À noter que l'apprentissage de la grammaire française obéit aux mêmes objectifs…) Il est parfaitement connu que la seule 
+méthode viable pour apprendre une langue étrangère est l'immersion";C2;;;
+"Ces énoncés se servent des signes, mais également des règles de formation pour produire des phrases d'une langue 
+avec le lexique.";C2;;;
+"C'est là que les capacités de mimétisme, sur lesquelles se fonde l'essentiel de l'apprentissage d'une langue, sont maximales.
+";C2;;;
+"Tout cela met l'enfant bretonnant en situation d'avoir, au travers d'une langue assez exotique, un très large éventail de 
+moyens d'expression qui viennent s'ajouter à ceux que le français lui propose.";C2;;;
+Cela est, selon moi, d'une valeur inestimable sur le plan du développement culturel, intellectuel et même moral de l'enfant.;C2;;;
+Elle dénoua le ruban qui attachait le manche de la quenouille à son corsage et me tendit la quenouille;C2;C1;C2;C2
+Il y avait dans sa voix, dans son regard, dans son geste, une supplication si ardente que je ne tergiversai pas une minute;C2;C2;C2;C2
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
